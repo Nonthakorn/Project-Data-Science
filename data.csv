@@ -1,0 +1,1352 @@
+,category,locationID,latitude,longtitude,streetID,location name,location_type,month,category latest recorded crime
+0,anti-social-behaviour,75989062,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+1,anti-social-behaviour,75989578,52.641932,-1.123898,884323,Montreal Road,Force,2019-07,Cannot be verified
+2,anti-social-behaviour,75992160,52.635184,-1.135455,883410,Shopping Area,Force,2019-07,Cannot be verified
+3,anti-social-behaviour,75987140,52.632755,-1.143837,883511,Duns Lane,Force,2019-07,Cannot be verified
+4,anti-social-behaviour,75991046,52.633749,-1.137198,883304,Parking Area,Force,2019-07,Cannot be verified
+5,anti-social-behaviour,75987733,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Cannot be verified
+6,anti-social-behaviour,75988521,52.635071,-1.139699,883420,Vaughan Way,Force,2019-07,Cannot be verified
+7,anti-social-behaviour,75987732,52.632246,-1.129529,883311,York Street,Force,2019-07,Cannot be verified
+8,anti-social-behaviour,75985917,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+9,anti-social-behaviour,75989055,52.630856,-1.144893,883523,Bede Street,Force,2019-07,Cannot be verified
+10,anti-social-behaviour,75991039,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Cannot be verified
+11,anti-social-behaviour,75985918,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Cannot be verified
+12,anti-social-behaviour,75984100,52.624661,-1.114094,882419,St James Terrace,Force,2019-07,Cannot be verified
+13,anti-social-behaviour,75991037,52.628831,-1.148228,883479,Roman Street,Force,2019-07,Cannot be verified
+14,anti-social-behaviour,75987172,52.626426,-1.114546,882499,Abingdon Road,Force,2019-07,Cannot be verified
+15,anti-social-behaviour,75986864,52.641948,-1.129780,884355,Archdeacon Lane,Force,2019-07,Cannot be verified
+16,anti-social-behaviour,75986860,52.640458,-1.128879,884349,Gower Street,Force,2019-07,Cannot be verified
+17,anti-social-behaviour,75988516,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Cannot be verified
+18,anti-social-behaviour,75991101,52.632246,-1.129529,883311,York Street,Force,2019-07,Cannot be verified
+19,anti-social-behaviour,75991100,52.623341,-1.152441,882285,Ivy Road,Force,2019-07,Cannot be verified
+20,anti-social-behaviour,75983785,52.639219,-1.126716,883318,Wheat Street,Force,2019-07,Cannot be verified
+21,anti-social-behaviour,75991460,52.638745,-1.113691,883166,Charnwood Street,Force,2019-07,Cannot be verified
+22,anti-social-behaviour,75988514,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Cannot be verified
+23,anti-social-behaviour,75991438,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Cannot be verified
+24,anti-social-behaviour,75987191,52.640374,-1.122319,884330,Christow Street,Force,2019-07,Cannot be verified
+25,anti-social-behaviour,75991435,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Cannot be verified
+26,anti-social-behaviour,75991431,52.623940,-1.145663,882294,Darnall Road,Force,2019-07,Cannot be verified
+27,anti-social-behaviour,75991415,52.636532,-1.120711,1319944,St George's Retail Park,Force,2019-07,Cannot be verified
+28,anti-social-behaviour,75984118,52.631940,-1.108864,883105,Park Vale Road,Force,2019-07,Cannot be verified
+29,anti-social-behaviour,75991412,52.631213,-1.145758,883510,Earl Howe Terrace,Force,2019-07,Cannot be verified
+30,anti-social-behaviour,75985010,52.626100,-1.115350,882498,Abingdon Road,Force,2019-07,Cannot be verified
+31,anti-social-behaviour,75991089,52.637465,-1.141233,883431,Great Central Street,Force,2019-07,Cannot be verified
+32,anti-social-behaviour,75987469,52.627450,-1.111969,883050,Myrtle Road,Force,2019-07,Cannot be verified
+33,anti-social-behaviour,75988255,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+34,anti-social-behaviour,75988258,52.631213,-1.145758,883510,Earl Howe Terrace,Force,2019-07,Cannot be verified
+35,anti-social-behaviour,75986533,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Cannot be verified
+36,anti-social-behaviour,75985013,52.617939,-1.118129,882393,Edward Road,Force,2019-07,Cannot be verified
+37,anti-social-behaviour,75989576,52.630562,-1.153971,883531,Parking Area,Force,2019-07,Cannot be verified
+38,anti-social-behaviour,75990774,52.632664,-1.149941,883590,Andrewes Close,Force,2019-07,Cannot be verified
+39,anti-social-behaviour,75990761,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Cannot be verified
+40,anti-social-behaviour,75990756,52.627335,-1.114705,883048,Skipworth Street,Force,2019-07,Cannot be verified
+41,anti-social-behaviour,75989551,52.638745,-1.113691,883166,Charnwood Street,Force,2019-07,Cannot be verified
+42,anti-social-behaviour,75989552,52.628321,-1.116606,883044,Upper Tichborne Street,Force,2019-07,Cannot be verified
+43,anti-social-behaviour,75987731,52.634765,-1.147122,883470,Tudor Close,Force,2019-07,Cannot be verified
+44,anti-social-behaviour,75990735,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Cannot be verified
+45,anti-social-behaviour,75990729,52.629543,-1.125032,883270,Nelson Street,Force,2019-07,Cannot be verified
+46,anti-social-behaviour,75989557,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Cannot be verified
+47,anti-social-behaviour,75990724,52.633540,-1.126977,883379,Church Street,Force,2019-07,Cannot be verified
+48,anti-social-behaviour,75988260,52.634369,-1.117533,883214,Pegasus Close,Force,2019-07,Cannot be verified
+49,anti-social-behaviour,75984739,52.633190,-1.116168,883104,Pluto Close,Force,2019-07,Cannot be verified
+50,anti-social-behaviour,75992428,52.642180,-1.119859,884424,Kashmir Road,Force,2019-07,Cannot be verified
+51,anti-social-behaviour,75986241,52.629292,-1.117842,883212,Severn Street,Force,2019-07,Cannot be verified
+52,anti-social-behaviour,75989572,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+53,anti-social-behaviour,75992437,52.642557,-1.125807,884348,Junction Road,Force,2019-07,Cannot be verified
+54,anti-social-behaviour,75991014,52.629348,-1.129040,883343,Museum Square,Force,2019-07,Cannot be verified
+55,anti-social-behaviour,75992445,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Cannot be verified
+56,anti-social-behaviour,75989573,52.626674,-1.116358,882379,Evington Road,Force,2019-07,Cannot be verified
+57,anti-social-behaviour,75992448,52.634279,-1.130922,883366,Granby Place,Force,2019-07,Cannot be verified
+58,anti-social-behaviour,75986503,52.635309,-1.151530,883485,Noble Street,Force,2019-07,Cannot be verified
+59,anti-social-behaviour,75990752,52.627634,-1.116162,883056,Connaught Street,Force,2019-07,Cannot be verified
+60,anti-social-behaviour,75986237,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Cannot be verified
+61,anti-social-behaviour,75992452,52.634764,-1.129612,883360,Halford Street,Force,2019-07,Cannot be verified
+62,anti-social-behaviour,75986540,52.639626,-1.130639,883389,Belgrave Gate,Force,2019-07,Cannot be verified
+63,anti-social-behaviour,75986543,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Cannot be verified
+64,anti-social-behaviour,75986234,52.627979,-1.120277,883199,Victoria Avenue,Force,2019-07,Cannot be verified
+65,anti-social-behaviour,75984379,52.631166,-1.145493,883520,Braunstone Gate,Force,2019-07,Cannot be verified
+66,anti-social-behaviour,75985935,52.637432,-1.126885,883333,Potter Street,Force,2019-07,Cannot be verified
+67,anti-social-behaviour,75986233,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+68,anti-social-behaviour,75984092,52.630852,-1.130739,883336,Park Street,Force,2019-07,Cannot be verified
+69,anti-social-behaviour,75987468,52.638140,-1.150101,883483,Nugent Street,Force,2019-07,Cannot be verified
+70,anti-social-behaviour,75985600,52.629293,-1.144983,1319949,Bede Park,Force,2019-07,Cannot be verified
+71,anti-social-behaviour,75991817,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Cannot be verified
+72,anti-social-behaviour,75985931,52.624935,-1.109849,882443,Lyme Road,Force,2019-07,Cannot be verified
+73,anti-social-behaviour,75991018,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Cannot be verified
+74,anti-social-behaviour,75987730,52.635006,-1.127066,883394,Nightclub,Force,2019-07,Cannot be verified
+75,anti-social-behaviour,75990447,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+76,anti-social-behaviour,75989581,52.633680,-1.130225,883402,Supermarket,Force,2019-07,Cannot be verified
+77,anti-social-behaviour,75990445,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+78,anti-social-behaviour,75985602,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Cannot be verified
+79,anti-social-behaviour,75990444,52.635434,-1.126658,883399,Conference/exhibition Centre,Force,2019-07,Cannot be verified
+80,anti-social-behaviour,75990439,52.635121,-1.139077,883430,High Street,Force,2019-07,Cannot be verified
+81,anti-social-behaviour,75990438,52.637636,-1.127708,883370,Eldon Street,Force,2019-07,Cannot be verified
+82,anti-social-behaviour,75990433,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Cannot be verified
+83,anti-social-behaviour,75990426,52.640374,-1.122319,884330,Christow Street,Force,2019-07,Cannot be verified
+84,anti-social-behaviour,75989585,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+85,anti-social-behaviour,75985306,52.626988,-1.123532,882307,Further/higher Educational Building,Force,2019-07,Cannot be verified
+86,anti-social-behaviour,75986259,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Cannot be verified
+87,anti-social-behaviour,75992152,52.632591,-1.126360,883328,St George Street,Force,2019-07,Cannot be verified
+88,anti-social-behaviour,75985926,52.627542,-1.129268,883245,West Street,Force,2019-07,Cannot be verified
+89,anti-social-behaviour,75987983,52.634195,-1.150414,883502,Glenfield Road East,Force,2019-07,Cannot be verified
+90,anti-social-behaviour,75992155,52.627335,-1.114705,883048,Skipworth Street,Force,2019-07,Cannot be verified
+91,anti-social-behaviour,75989061,52.636670,-1.140820,883432,Friars Causeway,Force,2019-07,Cannot be verified
+92,anti-social-behaviour,75992136,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Cannot be verified
+93,anti-social-behaviour,75989580,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Cannot be verified
+94,anti-social-behaviour,75984095,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+95,anti-social-behaviour,75992143,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Cannot be verified
+96,anti-social-behaviour,75985603,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+97,anti-social-behaviour,75989829,52.630574,-1.108936,883150,Egginton Street,Force,2019-07,Cannot be verified
+98,anti-social-behaviour,75985920,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+99,anti-social-behaviour,75988548,52.632246,-1.129529,883311,York Street,Force,2019-07,Cannot be verified
+100,anti-social-behaviour,75989834,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+101,anti-social-behaviour,75989838,52.626216,-1.147215,882268,Western Road,Force,2019-07,Cannot be verified
+102,anti-social-behaviour,75992376,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Cannot be verified
+103,anti-social-behaviour,75990153,52.634279,-1.130922,883366,Granby Place,Force,2019-07,Cannot be verified
+104,anti-social-behaviour,75985310,52.623132,-1.137155,882328,Sawday Street,Force,2019-07,Cannot be verified
+105,anti-social-behaviour,75988542,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+106,anti-social-behaviour,75984383,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+107,anti-social-behaviour,75990156,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Cannot be verified
+108,anti-social-behaviour,75986858,52.630546,-1.134261,883338,Norton Street,Force,2019-07,Cannot be verified
+109,anti-social-behaviour,75986856,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+110,anti-social-behaviour,75990167,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Cannot be verified
+111,anti-social-behaviour,75986852,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+112,anti-social-behaviour,75986849,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Cannot be verified
+113,anti-social-behaviour,75985331,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+114,anti-social-behaviour,75989592,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Cannot be verified
+115,anti-social-behaviour,75983772,52.626100,-1.115350,882498,Abingdon Road,Force,2019-07,Cannot be verified
+116,anti-social-behaviour,75986847,52.626432,-1.149766,882291,Equity Road,Force,2019-07,Cannot be verified
+117,anti-social-behaviour,75990169,52.631664,-1.132274,883393,Nightclub,Force,2019-07,Cannot be verified
+118,anti-social-behaviour,75990186,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+119,anti-social-behaviour,75986549,52.629348,-1.129040,883343,Museum Square,Force,2019-07,Cannot be verified
+120,anti-social-behaviour,75986822,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Cannot be verified
+121,anti-social-behaviour,75986228,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Cannot be verified
+122,anti-social-behaviour,75986823,52.625268,-1.125694,882370,Sports/recreation Area,Force,2019-07,Cannot be verified
+123,anti-social-behaviour,75986834,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Cannot be verified
+124,anti-social-behaviour,75986838,52.624661,-1.114094,882419,St James Terrace,Force,2019-07,Cannot be verified
+125,anti-social-behaviour,75989299,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Cannot be verified
+126,anti-social-behaviour,75989309,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+127,anti-social-behaviour,75989310,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+128,anti-social-behaviour,75986840,52.626988,-1.123532,882307,Further/higher Educational Building,Force,2019-07,Cannot be verified
+129,anti-social-behaviour,75986845,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+130,anti-social-behaviour,75992161,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Cannot be verified
+131,anti-social-behaviour,75989801,52.625508,-1.111920,882488,Beckingham Road,Force,2019-07,Cannot be verified
+132,anti-social-behaviour,75988541,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Cannot be verified
+133,anti-social-behaviour,75990468,52.628738,-1.142807,883490,Mill Lane,Force,2019-07,Cannot be verified
+134,anti-social-behaviour,75990467,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Cannot be verified
+135,anti-social-behaviour,75987704,52.628256,-1.148327,883456,Briton Street,Force,2019-07,Cannot be verified
+136,anti-social-behaviour,75985606,52.625976,-1.151252,882271,Upperton Road,Force,2019-07,Cannot be verified
+137,anti-social-behaviour,75985904,52.631712,-1.127885,883384,Calais Hill,Force,2019-07,Cannot be verified
+138,anti-social-behaviour,75985901,52.630069,-1.133045,883344,Mill Street,Force,2019-07,Cannot be verified
+139,anti-social-behaviour,75984103,52.634049,-1.127765,883378,Colton Street,Force,2019-07,Cannot be verified
+140,anti-social-behaviour,75991768,52.624935,-1.109849,882443,Lyme Road,Force,2019-07,Cannot be verified
+141,anti-social-behaviour,75984093,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Cannot be verified
+142,anti-social-behaviour,75984104,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+143,anti-social-behaviour,75986527,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+144,anti-social-behaviour,75984373,52.634369,-1.117533,883214,Pegasus Close,Force,2019-07,Cannot be verified
+145,anti-social-behaviour,75985020,52.628613,-1.118388,883221,Highfield Street,Force,2019-07,Cannot be verified
+146,anti-social-behaviour,75987465,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Cannot be verified
+147,anti-social-behaviour,75987969,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Cannot be verified
+148,anti-social-behaviour,75987964,52.626564,-1.118606,882382,Granville Road,Force,2019-07,Cannot be verified
+149,anti-social-behaviour,75984396,52.626681,-1.144339,882273,Thyme Close,Force,2019-07,Cannot be verified
+150,anti-social-behaviour,75987169,52.626050,-1.119606,882392,Granville Road,Force,2019-07,Cannot be verified
+151,anti-social-behaviour,75987963,52.629963,-1.122291,883268,Prebend Street,Force,2019-07,Cannot be verified
+152,anti-social-behaviour,75986541,52.640374,-1.122319,884330,Christow Street,Force,2019-07,Cannot be verified
+153,anti-social-behaviour,75988231,52.635285,-1.124755,883263,Southampton Street,Force,2019-07,Cannot be verified
+154,anti-social-behaviour,75988234,52.625201,-1.114231,882420,St James Road,Force,2019-07,Cannot be verified
+155,anti-social-behaviour,75991938,52.629348,-1.129040,883343,Museum Square,Force,2019-07,Cannot be verified
+156,anti-social-behaviour,75987165,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+157,anti-social-behaviour,75991901,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Cannot be verified
+158,anti-social-behaviour,75992165,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+159,anti-social-behaviour,75985018,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+160,anti-social-behaviour,75984384,52.626050,-1.119606,882392,Granville Road,Force,2019-07,Cannot be verified
+161,anti-social-behaviour,75991721,52.634324,-1.135916,883326,St Martins,Force,2019-07,Cannot be verified
+162,anti-social-behaviour,75987159,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Cannot be verified
+163,anti-social-behaviour,75987476,52.638769,-1.126548,883377,Crafton Street West,Force,2019-07,Cannot be verified
+164,anti-social-behaviour,75987158,52.635414,-1.128742,883313,Yeoman Street,Force,2019-07,Cannot be verified
+165,anti-social-behaviour,75991885,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Cannot be verified
+166,anti-social-behaviour,75987157,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Cannot be verified
+167,anti-social-behaviour,75986537,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Cannot be verified
+168,anti-social-behaviour,75984727,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+169,anti-social-behaviour,75984736,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Cannot be verified
+170,anti-social-behaviour,75990162,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+171,anti-social-behaviour,75990174,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Cannot be verified
+172,anti-social-behaviour,75987155,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Cannot be verified
+173,anti-social-behaviour,75987486,52.636649,-1.113438,883136,Hartington Road,Force,2019-07,Cannot be verified
+174,anti-social-behaviour,75987150,52.627460,-1.125369,883261,De Montfort Street,Force,2019-07,Cannot be verified
+175,anti-social-behaviour,75986263,52.627126,-1.142455,882309,Eastern Boulevard,Force,2019-07,Cannot be verified
+176,anti-social-behaviour,75992139,52.627972,-1.133869,883254,Infirmary Road,Force,2019-07,Cannot be verified
+177,anti-social-behaviour,75987475,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Cannot be verified
+178,anti-social-behaviour,75987979,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Cannot be verified
+179,anti-social-behaviour,75987978,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Cannot be verified
+180,anti-social-behaviour,75992017,52.626432,-1.149766,882291,Equity Road,Force,2019-07,Cannot be verified
+181,anti-social-behaviour,75992016,52.628804,-1.129716,883331,Rawson Street,Force,2019-07,Cannot be verified
+182,anti-social-behaviour,75991993,52.633680,-1.130225,883402,Supermarket,Force,2019-07,Cannot be verified
+183,anti-social-behaviour,75987457,52.638745,-1.113691,883166,Charnwood Street,Force,2019-07,Cannot be verified
+184,anti-social-behaviour,75987717,52.632246,-1.129529,883311,York Street,Force,2019-07,Cannot be verified
+185,anti-social-behaviour,75991446,52.642180,-1.119859,884424,Kashmir Road,Force,2019-07,Cannot be verified
+186,anti-social-behaviour,75987721,52.625201,-1.114231,882420,St James Road,Force,2019-07,Cannot be verified
+187,anti-social-behaviour,75990175,52.626239,-1.147849,882296,Crow Lane,Force,2019-07,Cannot be verified
+188,anti-social-behaviour,75988801,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Cannot be verified
+189,anti-social-behaviour,75986836,52.627542,-1.129268,883245,West Street,Force,2019-07,Cannot be verified
+190,anti-social-behaviour,75991959,52.627335,-1.114705,883048,Skipworth Street,Force,2019-07,Cannot be verified
+191,anti-social-behaviour,75985586,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Cannot be verified
+192,anti-social-behaviour,75988794,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+193,anti-social-behaviour,75985593,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Cannot be verified
+194,anti-social-behaviour,75988786,52.626065,-1.137497,882341,Farndale Close,Force,2019-07,Cannot be verified
+195,anti-social-behaviour,75985597,52.632883,-1.154148,883538,Stretton Road,Force,2019-07,Cannot be verified
+196,anti-social-behaviour,75991657,52.639736,-1.120026,883035,Arnold Street,Force,2019-07,Cannot be verified
+197,anti-social-behaviour,75991949,52.633161,-1.140416,883433,Castle Street,Force,2019-07,Cannot be verified
+198,anti-social-behaviour,75985913,52.629835,-1.133005,883303,Parking Area,Force,2019-07,Cannot be verified
+199,anti-social-behaviour,75987160,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Cannot be verified
+200,anti-social-behaviour,75987148,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Cannot be verified
+201,anti-social-behaviour,75992147,52.629963,-1.122291,883268,Prebend Street,Force,2019-07,Cannot be verified
+202,anti-social-behaviour,75987146,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Cannot be verified
+203,anti-social-behaviour,75983780,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Cannot be verified
+204,anti-social-behaviour,75991107,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Cannot be verified
+205,anti-social-behaviour,75983781,52.631940,-1.108864,883105,Park Vale Road,Force,2019-07,Cannot be verified
+206,anti-social-behaviour,75988783,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Cannot be verified
+207,anti-social-behaviour,75988239,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Cannot be verified
+208,anti-social-behaviour,75989588,52.628988,-1.130274,883376,Crescent Street,Force,2019-07,Cannot be verified
+209,anti-social-behaviour,75987144,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Cannot be verified
+210,anti-social-behaviour,75987142,52.627866,-1.120737,883200,University Road,Force,2019-07,Cannot be verified
+211,anti-social-behaviour,75991113,52.632664,-1.149941,883590,Andrewes Close,Force,2019-07,Cannot be verified
+212,anti-social-behaviour,75991094,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Cannot be verified
+213,anti-social-behaviour,75991092,52.636649,-1.113438,883136,Hartington Road,Force,2019-07,Cannot be verified
+214,anti-social-behaviour,75991077,52.639138,-1.137683,883355,Junior Street,Force,2019-07,Cannot be verified
+215,anti-social-behaviour,75991071,52.617281,-1.121451,882364,Howard Road,Force,2019-07,Cannot be verified
+216,anti-social-behaviour,75991111,52.633540,-1.126977,883379,Church Street,Force,2019-07,Cannot be verified
+217,anti-social-behaviour,75988247,52.627627,-1.148325,883455,Gaul Street,Force,2019-07,Cannot be verified
+218,anti-social-behaviour,75988535,52.625516,-1.137404,882339,Grisedale Close,Force,2019-07,Cannot be verified
+219,anti-social-behaviour,75988781,52.634765,-1.147122,883470,Tudor Close,Force,2019-07,Cannot be verified
+220,anti-social-behaviour,75988533,52.629259,-1.151470,883476,Shaftesbury Road,Force,2019-07,Cannot be verified
+221,anti-social-behaviour,75990158,52.640715,-1.130854,884342,Wood Street,Force,2019-07,Cannot be verified
+222,anti-social-behaviour,75983792,52.629835,-1.133005,883303,Parking Area,Force,2019-07,Cannot be verified
+223,anti-social-behaviour,75988523,52.631392,-1.127064,883371,East Street,Force,2019-07,Cannot be verified
+224,anti-social-behaviour,75983797,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Cannot be verified
+225,anti-social-behaviour,75987447,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Cannot be verified
+226,anti-social-behaviour,75983801,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Cannot be verified
+227,anti-social-behaviour,75991061,52.633192,-1.117719,883227,Atlas Close,Force,2019-07,Cannot be verified
+228,bicycle-theft,75990104,52.625944,-1.140601,882313,Windermere Street,Force,2019-07,Under investigation
+229,bicycle-theft,75988136,52.632574,-1.143767,883516,Corah Street,Force,2019-07,Investigation complete; no suspect identified
+230,bicycle-theft,75991919,52.631091,-1.142554,883421,The Newarke,Force,2019-07,Investigation complete; no suspect identified
+231,bicycle-theft,75989721,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+232,bicycle-theft,75991892,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Investigation complete; no suspect identified
+233,bicycle-theft,75987060,52.623490,-1.124665,882356,University Road,Force,2019-07,Investigation complete; no suspect identified
+234,bicycle-theft,75986038,52.628738,-1.142807,883490,Mill Lane,Force,2019-07,Investigation complete; no suspect identified
+235,bicycle-theft,75991279,52.635695,-1.130274,883350,Lower Free Lane,Force,2019-07,Investigation complete; no suspect identified
+236,bicycle-theft,75983847,52.627491,-1.118661,883201,Mill Hill Lane,Force,2019-07,Investigation complete; no suspect identified
+237,bicycle-theft,75989330,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+238,bicycle-theft,75990578,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+239,bicycle-theft,75988481,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+240,bicycle-theft,75991876,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+241,bicycle-theft,75989484,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Under investigation
+242,bicycle-theft,75986765,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+243,bicycle-theft,75985748,52.631718,-1.126171,883352,London Road,Force,2019-07,Investigation complete; no suspect identified
+244,bicycle-theft,75985058,52.632367,-1.135023,883380,Chancery Street,Force,2019-07,Under investigation
+245,bicycle-theft,75984336,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Under investigation
+246,bicycle-theft,75992539,52.624057,-1.135734,882340,Filbert Street East,Force,2019-07,Investigation complete; no suspect identified
+247,bicycle-theft,75989506,52.627979,-1.120277,883199,Victoria Avenue,Force,2019-07,Investigation complete; no suspect identified
+248,bicycle-theft,75989508,52.632591,-1.126360,883328,St George Street,Force,2019-07,Investigation complete; no suspect identified
+249,bicycle-theft,75988281,52.634803,-1.131326,883403,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+250,bicycle-theft,75984451,52.630312,-1.140531,883426,Newarke Close,Force,2019-07,Awaiting court outcome
+251,bicycle-theft,75990405,52.637005,-1.130026,883354,Kildare Street,Force,2019-07,Under investigation
+252,bicycle-theft,75990421,52.632883,-1.154148,883538,Stretton Road,Force,2019-07,Investigation complete; no suspect identified
+253,bicycle-theft,75991049,52.641553,-1.121290,884331,Chester Close,Force,2019-07,Investigation complete; no suspect identified
+254,bicycle-theft,75990007,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+255,bicycle-theft,75984615,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Formal action is not in the public interest
+256,bicycle-theft,75986189,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Under investigation
+257,bicycle-theft,75986107,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+258,bicycle-theft,75985343,52.633265,-1.125106,883277,Fox Street,Force,2019-07,Investigation complete; no suspect identified
+259,bicycle-theft,76420749,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+260,bicycle-theft,75991797,52.622762,-1.139452,882319,Burnmoor Street,Force,2019-07,Investigation complete; no suspect identified
+261,bicycle-theft,75985543,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+262,bicycle-theft,75988567,52.628075,-1.113804,883046,St Stephens Road,Force,2019-07,Investigation complete; no suspect identified
+263,bicycle-theft,75990398,52.637005,-1.130026,883354,Kildare Street,Force,2019-07,Under investigation
+264,bicycle-theft,75986121,52.621799,-1.124581,882359,Mayor's Walk,Force,2019-07,Investigation complete; no suspect identified
+265,bicycle-theft,75990904,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+266,bicycle-theft,75990520,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+267,bicycle-theft,75984589,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+268,bicycle-theft,75988341,52.630562,-1.153971,883531,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+269,bicycle-theft,75992560,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Under investigation
+270,bicycle-theft,75990522,52.633540,-1.126977,883379,Church Street,Force,2019-07,Investigation complete; no suspect identified
+271,bicycle-theft,75989897,52.633540,-1.126977,883379,Church Street,Force,2019-07,Investigation complete; no suspect identified
+272,bicycle-theft,75988766,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+273,bicycle-theft,75986908,52.635767,-1.135267,883291,High Street,Force,2019-07,Unable to prosecute suspect
+274,bicycle-theft,75989177,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Investigation complete; no suspect identified
+275,bicycle-theft,75983869,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Investigation complete; no suspect identified
+276,bicycle-theft,75989202,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+277,bicycle-theft,75989464,52.632778,-1.143349,883462,Westbridge Close,Force,2019-07,Investigation complete; no suspect identified
+278,bicycle-theft,75988733,52.628510,-1.134937,883253,Infirmary Square,Force,2019-07,Unable to prosecute suspect
+279,bicycle-theft,75991962,52.635767,-1.135267,883291,High Street,Force,2019-07,Under investigation
+280,bicycle-theft,75992066,52.630373,-1.123051,883276,Glebe Street,Force,2019-07,Under investigation
+281,bicycle-theft,75988597,52.630312,-1.140531,883426,Newarke Close,Force,2019-07,Under investigation
+282,burglary,75989102,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Under investigation
+283,burglary,75983975,52.633749,-1.137198,883304,Parking Area,Force,2019-07,Awaiting court outcome
+284,burglary,75986763,52.630546,-1.134261,883338,Norton Street,Force,2019-07,Under investigation
+285,burglary,75991310,52.628177,-1.154830,883452,Barclay Street,Force,2019-07,Under investigation
+286,burglary,75987306,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+287,burglary,75990861,52.632469,-1.134164,883334,Pocklingtons Walk,Force,2019-07,Investigation complete; no suspect identified
+288,burglary,75990296,52.630069,-1.133045,883344,Mill Street,Force,2019-07,Investigation complete; no suspect identified
+289,burglary,75984908,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+290,burglary,75988852,52.625201,-1.114231,882420,St James Road,Force,2019-07,Unable to prosecute suspect
+291,burglary,75988865,52.635488,-1.147640,883480,Rivers Street,Force,2019-07,Investigation complete; no suspect identified
+292,burglary,75984439,52.640779,-1.138345,884346,Pasture Lane,Force,2019-07,Investigation complete; no suspect identified
+293,burglary,75984561,52.633888,-1.138924,883425,Peacock Lane,Force,2019-07,Under investigation
+294,burglary,75991594,52.624562,-1.152151,882300,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+295,burglary,75985226,52.627112,-1.150477,882209,Narborough Road,Force,2019-07,Investigation complete; no suspect identified
+296,burglary,75983993,52.635006,-1.127066,883394,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+297,burglary,75990224,52.625944,-1.140601,882313,Windermere Street,Force,2019-07,Under investigation
+298,burglary,75991982,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Investigation complete; no suspect identified
+299,burglary,75992535,52.626948,-1.112172,882380,Cedar Road,Force,2019-07,Under investigation
+300,burglary,75988644,52.625909,-1.112636,882408,Tennyson Street,Force,2019-07,Investigation complete; no suspect identified
+301,burglary,75990401,52.637147,-1.149499,883466,Vaughan Street,Force,2019-07,Under investigation
+302,burglary,75985214,52.636104,-1.117572,883225,Beal Street,Force,2019-07,Investigation complete; no suspect identified
+303,burglary,75988618,52.635488,-1.147640,883480,Rivers Street,Force,2019-07,Investigation complete; no suspect identified
+304,burglary,75986621,52.630546,-1.134261,883338,Norton Street,Force,2019-07,Under investigation
+305,burglary,75987685,52.635415,-1.114335,883073,Wilson Street,Force,2019-07,Investigation complete; no suspect identified
+306,burglary,75989409,52.635488,-1.147640,883480,Rivers Street,Force,2019-07,Unable to prosecute suspect
+307,burglary,75992562,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Investigation complete; no suspect identified
+308,burglary,75989011,52.627542,-1.129268,883245,West Street,Force,2019-07,Under investigation
+309,burglary,75990399,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Investigation complete; no suspect identified
+310,burglary,75987696,52.624723,-1.138335,882325,Walnut Street,Force,2019-07,Investigation complete; no suspect identified
+311,burglary,75990913,52.632246,-1.129529,883311,York Street,Force,2019-07,Under investigation
+312,burglary,75984064,52.627524,-1.153985,883450,Cambridge Street,Force,2019-07,Investigation complete; no suspect identified
+313,burglary,75991365,52.625201,-1.114231,882420,St James Road,Force,2019-07,Under investigation
+314,burglary,75989663,52.630327,-1.136349,883337,Oxford Street,Force,2019-07,Investigation complete; no suspect identified
+315,burglary,75991348,52.632074,-1.137984,883294,Pedestrian Subway,Force,2019-07,Under investigation
+316,burglary,75984860,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+317,burglary,75984867,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+318,criminal-damage-arson,75986391,52.633894,-1.114174,883120,Mensa Close,Force,2019-07,Investigation complete; no suspect identified
+319,criminal-damage-arson,75985220,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Unable to prosecute suspect
+320,criminal-damage-arson,75983946,52.626050,-1.119606,882392,Granville Road,Force,2019-07,Investigation complete; no suspect identified
+321,criminal-damage-arson,75987491,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Under investigation
+322,criminal-damage-arson,75984641,52.628613,-1.118388,883221,Highfield Street,Force,2019-07,Investigation complete; no suspect identified
+323,criminal-damage-arson,75992639,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Under investigation
+324,criminal-damage-arson,75989029,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Investigation complete; no suspect identified
+325,criminal-damage-arson,75984794,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Investigation complete; no suspect identified
+326,criminal-damage-arson,75989212,52.633894,-1.114174,883120,Mensa Close,Force,2019-07,Investigation complete; no suspect identified
+327,criminal-damage-arson,75989031,52.635006,-1.127066,883394,Nightclub,Force,2019-07,Unable to prosecute suspect
+328,criminal-damage-arson,75989939,52.637744,-1.142616,883499,Jarvis Street,Force,2019-07,Investigation complete; no suspect identified
+329,criminal-damage-arson,75989725,52.624389,-1.140706,882316,Filbert Street,Force,2019-07,Investigation complete; no suspect identified
+330,criminal-damage-arson,75984882,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+331,criminal-damage-arson,75986064,52.633937,-1.152029,883495,King Richards Road,Force,2019-07,Investigation complete; no suspect identified
+332,criminal-damage-arson,75988499,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Unable to prosecute suspect
+333,criminal-damage-arson,75986108,52.631679,-1.150448,883519,Catesby Street,Force,2019-07,Investigation complete; no suspect identified
+334,criminal-damage-arson,75988610,52.627387,-1.137589,883244,Winifred Street,Force,2019-07,Under investigation
+335,criminal-damage-arson,75991725,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+336,criminal-damage-arson,75992325,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+337,criminal-damage-arson,75988009,52.624057,-1.135734,882340,Filbert Street East,Force,2019-07,Under investigation
+338,criminal-damage-arson,75983994,52.627272,-1.152793,882212,Browning Street,Force,2019-07,Investigation complete; no suspect identified
+339,criminal-damage-arson,75986641,52.636255,-1.149295,883463,Warwick Street,Force,2019-07,Investigation complete; no suspect identified
+340,criminal-damage-arson,75992227,52.624046,-1.133001,882351,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+341,criminal-damage-arson,75992218,52.626776,-1.138783,882306,Clarendon Street,Force,2019-07,Investigation complete; no suspect identified
+342,criminal-damage-arson,75984029,52.630628,-1.116219,883143,Gopsall Street,Force,2019-07,Investigation complete; no suspect identified
+343,criminal-damage-arson,75986679,52.627396,-1.141238,883417,Ullswater Street,Force,2019-07,Under investigation
+344,criminal-damage-arson,75987229,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Investigation complete; no suspect identified
+345,criminal-damage-arson,75987246,52.640374,-1.122319,884330,Christow Street,Force,2019-07,Investigation complete; no suspect identified
+346,criminal-damage-arson,75984022,52.627272,-1.152793,882212,Browning Street,Force,2019-07,Investigation complete; no suspect identified
+347,criminal-damage-arson,75991549,52.633894,-1.114174,883120,Mensa Close,Force,2019-07,Investigation complete; no suspect identified
+348,criminal-damage-arson,75988477,52.627744,-1.118922,883202,Mandora Lane,Force,2019-07,Under investigation
+349,criminal-damage-arson,75983935,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Under investigation
+350,criminal-damage-arson,75985823,52.632783,-1.151520,883484,Norfolk Street,Force,2019-07,Unable to prosecute suspect
+351,criminal-damage-arson,75985859,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Further investigation is not in the public interest
+352,criminal-damage-arson,75985872,52.617939,-1.118129,882393,Edward Road,Force,2019-07,Investigation complete; no suspect identified
+353,criminal-damage-arson,75991251,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+354,criminal-damage-arson,75991249,52.635071,-1.139699,883420,Vaughan Way,Force,2019-07,Unable to prosecute suspect
+355,criminal-damage-arson,75985978,52.632892,-1.112362,883160,Darley Street,Force,2019-07,Unable to prosecute suspect
+356,criminal-damage-arson,75988636,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Investigation complete; no suspect identified
+357,criminal-damage-arson,75988673,52.630852,-1.130739,883336,Park Street,Force,2019-07,Investigation complete; no suspect identified
+358,criminal-damage-arson,75988554,52.642557,-1.125807,884348,Junction Road,Force,2019-07,Awaiting court outcome
+359,criminal-damage-arson,75988727,52.624180,-1.112272,882453,Herschell Street,Force,2019-07,Unable to prosecute suspect
+360,criminal-damage-arson,75987679,52.618191,-1.136425,882330,Putney Road West,Force,2019-07,Investigation complete; no suspect identified
+361,criminal-damage-arson,75987692,52.632246,-1.129529,883311,York Street,Force,2019-07,Investigation complete; no suspect identified
+362,criminal-damage-arson,75987753,52.634769,-1.142734,883525,Bath Lane,Force,2019-07,Unable to prosecute suspect
+363,criminal-damage-arson,75991047,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Investigation complete; no suspect identified
+364,criminal-damage-arson,75990984,52.616961,-1.120719,882391,Hartopp Road,Force,2019-07,Investigation complete; no suspect identified
+365,criminal-damage-arson,75990933,52.624919,-1.141892,882317,Coniston Avenue,Force,2019-07,Formal action is not in the public interest
+366,criminal-damage-arson,75987829,52.629909,-1.132073,883345,Marquis Street,Force,2019-07,Investigation complete; no suspect identified
+367,criminal-damage-arson,75987865,52.633190,-1.116168,883104,Pluto Close,Force,2019-07,Unable to prosecute suspect
+368,criminal-damage-arson,75987881,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+369,criminal-damage-arson,75987893,52.639626,-1.130639,883389,Belgrave Gate,Force,2019-07,Unable to prosecute suspect
+370,criminal-damage-arson,75984160,52.628789,-1.133764,883335,Pelham Way,Force,2019-07,Investigation complete; no suspect identified
+371,criminal-damage-arson,75988195,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+372,criminal-damage-arson,75990783,52.636649,-1.113438,883136,Hartington Road,Force,2019-07,Investigation complete; no suspect identified
+373,criminal-damage-arson,75990723,52.632977,-1.136001,883315,Wycliffe Street,Force,2019-07,Unable to prosecute suspect
+374,criminal-damage-arson,75984179,52.627972,-1.133869,883254,Infirmary Road,Force,2019-07,Local resolution
+375,criminal-damage-arson,75989785,52.635974,-1.139045,883429,Highcross Street,Force,2019-07,Under investigation
+376,criminal-damage-arson,75984628,52.636033,-1.138424,883368,Freeschool Lane,Force,2019-07,Under investigation
+377,criminal-damage-arson,75989891,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Under investigation
+378,criminal-damage-arson,75990554,52.632977,-1.136001,883315,Wycliffe Street,Force,2019-07,Investigation complete; no suspect identified
+379,criminal-damage-arson,75990540,52.634379,-1.132294,883398,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+380,criminal-damage-arson,75991185,52.636608,-1.117665,883215,Murray Street,Force,2019-07,Unable to prosecute suspect
+381,criminal-damage-arson,75984265,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Further investigation is not in the public interest
+382,criminal-damage-arson,75990519,52.630684,-1.128659,883373,Dunkirk Street,Force,2019-07,Unable to prosecute suspect
+383,criminal-damage-arson,75991122,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Under investigation
+384,criminal-damage-arson,75990585,52.635488,-1.147640,883480,Rivers Street,Force,2019-07,Under investigation
+385,criminal-damage-arson,75990595,52.617692,-1.118725,882389,Oxford Road,Force,2019-07,Under investigation
+386,criminal-damage-arson,75991548,52.620842,-1.131306,876361,Counting House Road,Force,2019-07,Under investigation
+387,criminal-damage-arson,75991597,52.628157,-1.130910,883247,Turner Street,Force,2019-07,Under investigation
+388,criminal-damage-arson,75991807,52.621978,-1.138005,882348,Sports/recreation Area,Force,2019-07,Under investigation
+389,criminal-damage-arson,75991307,52.626564,-1.118606,882382,Granville Road,Force,2019-07,Under investigation
+390,criminal-damage-arson,75991370,52.629348,-1.129040,883343,Museum Square,Force,2019-07,Investigation complete; no suspect identified
+391,criminal-damage-arson,75991379,52.628685,-1.109979,883131,Laurel Road,Force,2019-07,Awaiting court outcome
+392,criminal-damage-arson,75992337,52.637077,-1.131221,883298,Parking Area,Force,2019-07,Under investigation
+393,criminal-damage-arson,75990214,52.637005,-1.130026,883354,Kildare Street,Force,2019-07,Investigation complete; no suspect identified
+394,criminal-damage-arson,75984597,52.637147,-1.149499,883466,Vaughan Street,Force,2019-07,Awaiting court outcome
+395,criminal-damage-arson,75991707,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Under investigation
+396,criminal-damage-arson,75991722,52.627272,-1.152793,882212,Browning Street,Force,2019-07,Under investigation
+397,drugs,75985464,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Unable to prosecute suspect
+398,drugs,75985472,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Local resolution
+399,drugs,75989420,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Under investigation
+400,drugs,75989388,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Under investigation
+401,drugs,75987317,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Under investigation
+402,drugs,75991169,52.636608,-1.117665,883215,Murray Street,Force,2019-07,Under investigation
+403,drugs,75992421,52.631679,-1.150448,883519,Catesby Street,Force,2019-07,Under investigation
+404,drugs,75991208,52.639667,-1.130136,883241,Jubilee Road,Force,2019-07,Under investigation
+405,drugs,75992417,52.631564,-1.129661,883395,Theatre/concert Hall,Force,2019-07,Under investigation
+406,drugs,75990952,52.633540,-1.126977,883379,Church Street,Force,2019-07,Under investigation
+407,drugs,75990957,52.635695,-1.130274,883350,Lower Free Lane,Force,2019-07,Under investigation
+408,drugs,75985944,52.635643,-1.112409,883162,Cromford Street,Force,2019-07,Under investigation
+409,drugs,76420747,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+410,drugs,75985480,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Local resolution
+411,drugs,75988743,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+412,drugs,75986127,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Under investigation
+413,drugs,75987608,52.635414,-1.128742,883313,Yeoman Street,Force,2019-07,Awaiting court outcome
+414,drugs,75987554,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Awaiting court outcome
+415,drugs,75987553,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+416,drugs,75991522,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+417,drugs,75991524,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+418,drugs,75991661,52.626065,-1.137497,882341,Farndale Close,Force,2019-07,Local resolution
+419,drugs,75991559,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Local resolution
+420,drugs,75991761,52.631380,-1.135338,883322,Upper Brown Street,Force,2019-07,Local resolution
+421,drugs,75989365,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Under investigation
+422,drugs,75987016,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Local resolution
+423,drugs,75988448,52.631887,-1.130778,883391,Albion Street,Force,2019-07,Under investigation
+424,drugs,75986750,52.625345,-1.148546,882276,Sheffield Street,Force,2019-07,Further investigation is not in the public interest
+425,drugs,75986740,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Local resolution
+426,drugs,75986736,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Local resolution
+427,drugs,75984303,52.625879,-1.129286,882326,Tigers Way,Force,2019-07,Local resolution
+428,drugs,75986450,52.632977,-1.136001,883315,Wycliffe Street,Force,2019-07,Formal action is not in the public interest
+429,drugs,75991822,52.635184,-1.135455,883410,Shopping Area,Force,2019-07,Under investigation
+430,drugs,75986569,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Further investigation is not in the public interest
+431,drugs,75985336,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+432,drugs,75992288,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Under investigation
+433,drugs,75986427,52.638452,-1.128697,883307,Parking Area,Force,2019-07,Local resolution
+434,drugs,75986871,52.629293,-1.144983,1319949,Bede Park,Force,2019-07,Local resolution
+435,drugs,75984930,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Local resolution
+436,drugs,75986271,52.628499,-1.132174,883248,Trinity Lane,Force,2019-07,Formal action is not in the public interest
+437,drugs,75985062,52.630574,-1.108936,883150,Egginton Street,Force,2019-07,Formal action is not in the public interest
+438,drugs,75985454,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Under investigation
+439,drugs,75992022,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Under investigation
+440,drugs,75985546,52.633879,-1.132821,883358,Horsefair Street,Force,2019-07,Unable to prosecute suspect
+441,drugs,75989757,52.626239,-1.147849,882296,Crow Lane,Force,2019-07,Local resolution
+442,drugs,75989651,52.637024,-1.128962,883408,Supermarket,Force,2019-07,Local resolution
+443,drugs,75987619,52.623940,-1.145663,882294,Darnall Road,Force,2019-07,Under investigation
+444,drugs,75984601,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Under investigation
+445,drugs,75988191,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Under investigation
+446,drugs,75987213,52.629909,-1.132073,883345,Marquis Street,Force,2019-07,Under investigation
+447,drugs,75992353,52.623940,-1.145663,882294,Darnall Road,Force,2019-07,Under investigation
+448,drugs,75990118,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Awaiting court outcome
+449,drugs,75985359,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Under investigation
+450,drugs,75992500,52.623742,-1.140645,882315,Lineker Road,Force,2019-07,Under investigation
+451,drugs,75990123,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Under investigation
+452,drugs,75989789,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Under investigation
+453,drugs,75983875,52.626439,-1.111429,882465,Evington Place,Force,2019-07,Under investigation
+454,drugs,75992575,52.634007,-1.147965,883496,King Richards Road,Force,2019-07,Under investigation
+455,other-theft,75985788,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+456,other-theft,75987593,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+457,other-theft,76420746,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+458,other-theft,75989511,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+459,other-theft,75984126,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Investigation complete; no suspect identified
+460,other-theft,75985436,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+461,other-theft,75985768,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+462,other-theft,75985679,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+463,other-theft,75991299,52.635184,-1.135455,883410,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+464,other-theft,75991325,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+465,other-theft,75991341,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Investigation complete; no suspect identified
+466,other-theft,75989530,52.626100,-1.115350,882498,Abingdon Road,Force,2019-07,Under investigation
+467,other-theft,75987722,52.633540,-1.126977,883379,Church Street,Force,2019-07,Under investigation
+468,other-theft,75991480,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Unable to prosecute suspect
+469,other-theft,75989157,52.631910,-1.152660,883501,Hinckley Road,Force,2019-07,Investigation complete; no suspect identified
+470,other-theft,75986713,52.626050,-1.119606,882392,Granville Road,Force,2019-07,Under investigation
+471,other-theft,75991540,52.636033,-1.138424,883368,Freeschool Lane,Force,2019-07,Investigation complete; no suspect identified
+472,other-theft,75991585,52.632993,-1.129633,883396,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+473,other-theft,75991639,52.624661,-1.114094,882419,St James Terrace,Force,2019-07,Formal action is not in the public interest
+474,other-theft,75991485,52.642332,-1.141714,884304,Slater Street,Force,2019-07,Under investigation
+475,other-theft,75988332,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Investigation complete; no suspect identified
+476,other-theft,75989082,52.630212,-1.124369,883271,Nelson Street,Force,2019-07,Investigation complete; no suspect identified
+477,other-theft,75984820,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Investigation complete; no suspect identified
+478,other-theft,75984011,52.634769,-1.142734,883525,Bath Lane,Force,2019-07,Under investigation
+479,other-theft,75992228,52.625240,-1.132859,882322,Parking Area,Force,2019-07,Under investigation
+480,other-theft,75987384,52.641932,-1.123898,884323,Montreal Road,Force,2019-07,Investigation complete; no suspect identified
+481,other-theft,75985049,52.623861,-1.112973,882426,Ripon Street,Force,2019-07,Under investigation
+482,other-theft,75989246,52.631394,-1.148399,883515,Coventry Street,Force,2019-07,Investigation complete; no suspect identified
+483,other-theft,75987309,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Unable to prosecute suspect
+484,other-theft,75992053,52.633540,-1.126977,883379,Church Street,Force,2019-07,Under investigation
+485,other-theft,75987291,52.623940,-1.145663,882294,Darnall Road,Force,2019-07,Investigation complete; no suspect identified
+486,other-theft,75987256,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+487,other-theft,75989095,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+488,other-theft,75987217,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+489,other-theft,75990793,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Unable to prosecute suspect
+490,other-theft,75988404,52.635449,-1.140918,883428,Holy Bones,Force,2019-07,Investigation complete; no suspect identified
+491,other-theft,75986980,52.631664,-1.132274,883393,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+492,other-theft,75988933,52.625976,-1.151252,882271,Upperton Road,Force,2019-07,Under investigation
+493,other-theft,75988555,52.630312,-1.140531,883426,Newarke Close,Force,2019-07,Under investigation
+494,other-theft,75986752,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+495,other-theft,75990032,52.637581,-1.148649,883464,Warren Street,Force,2019-07,Investigation complete; no suspect identified
+496,other-theft,75986749,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+497,other-theft,75990126,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+498,other-theft,75989145,52.636532,-1.120711,1319944,St George's Retail Park,Force,2019-07,Investigation complete; no suspect identified
+499,other-theft,75985193,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Investigation complete; no suspect identified
+500,other-theft,75983840,52.633937,-1.152029,883495,King Richards Road,Force,2019-07,Investigation complete; no suspect identified
+501,other-theft,75983873,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+502,other-theft,75992385,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Under investigation
+503,other-theft,75986703,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+504,other-theft,75987825,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+505,other-theft,75986682,52.625345,-1.148546,882276,Sheffield Street,Force,2019-07,Formal action is not in the public interest
+506,other-theft,75988419,52.628510,-1.134937,883253,Infirmary Square,Force,2019-07,Under investigation
+507,other-theft,75992603,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Under investigation
+508,other-theft,75992323,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+509,other-theft,75984648,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+510,other-theft,75988173,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Unable to prosecute suspect
+511,other-theft,75990794,52.626908,-1.114064,882376,Onslow Street,Force,2019-07,Investigation complete; no suspect identified
+512,other-theft,75986455,52.635643,-1.112409,883162,Cromford Street,Force,2019-07,Investigation complete; no suspect identified
+513,other-theft,75985632,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+514,other-theft,75992547,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+515,other-theft,75990796,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Investigation complete; no suspect identified
+516,other-theft,75990573,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+517,other-theft,75990668,52.631213,-1.145758,883510,Earl Howe Terrace,Force,2019-07,Investigation complete; no suspect identified
+518,other-theft,75986219,52.629864,-1.115053,883190,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+519,other-theft,75986196,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+520,other-theft,75984975,52.639814,-1.139118,883235,Sanvey Gate,Force,2019-07,Investigation complete; no suspect identified
+521,other-theft,75988082,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+522,other-theft,75990821,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Unable to prosecute suspect
+523,other-theft,75990233,52.633379,-1.113741,883122,Melbourne Road,Force,2019-07,Under investigation
+524,other-theft,75990788,52.635974,-1.139045,883429,Highcross Street,Force,2019-07,Investigation complete; no suspect identified
+525,other-theft,75985142,52.637005,-1.130026,883354,Kildare Street,Force,2019-07,Unable to prosecute suspect
+526,other-theft,75985171,52.635071,-1.139699,883420,Vaughan Way,Force,2019-07,Investigation complete; no suspect identified
+527,other-theft,75986035,52.634379,-1.132294,883398,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+528,other-theft,75989782,52.638769,-1.126548,883377,Crafton Street West,Force,2019-07,Investigation complete; no suspect identified
+529,other-theft,75989860,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+530,other-theft,75984193,52.635101,-1.130226,883369,Free Lane,Force,2019-07,Investigation complete; no suspect identified
+531,other-theft,75988369,52.619358,-1.132518,882337,Islington Street,Force,2019-07,Investigation complete; no suspect identified
+532,other-theft,75987838,52.634279,-1.130922,883366,Granby Place,Force,2019-07,Investigation complete; no suspect identified
+533,other-theft,75991889,52.635767,-1.135267,883291,High Street,Force,2019-07,Under investigation
+534,other-theft,75992466,52.636033,-1.138424,883368,Freeschool Lane,Force,2019-07,Under investigation
+535,other-theft,75987673,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+536,other-theft,75987670,52.632977,-1.136001,883315,Wycliffe Street,Force,2019-07,Investigation complete; no suspect identified
+537,other-theft,75987667,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+538,other-theft,75991055,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Investigation complete; no suspect identified
+539,other-theft,75984137,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+540,other-theft,75991060,52.629909,-1.132073,883345,Marquis Street,Force,2019-07,Investigation complete; no suspect identified
+541,other-theft,75989918,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+542,other-theft,75985407,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Investigation complete; no suspect identified
+543,other-theft,75991146,52.630103,-1.112049,883152,Earl Howe Street,Force,2019-07,Unable to prosecute suspect
+544,other-theft,75991209,52.634279,-1.130922,883366,Granby Place,Force,2019-07,Investigation complete; no suspect identified
+545,other-theft,75988738,52.629835,-1.133005,883303,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+546,other-theft,75990581,52.620053,-1.141500,1319941,Leicester City Football Club,Force,2019-07,Investigation complete; no suspect identified
+547,other-theft,75985399,52.624661,-1.114094,882419,St James Terrace,Force,2019-07,Investigation complete; no suspect identified
+548,other-theft,75988679,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+549,other-theft,75991906,52.639880,-1.118841,883033,Parking Area,Force,2019-07,Under investigation
+550,other-theft,75985388,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+551,other-theft,75992419,52.631679,-1.150448,883519,Catesby Street,Force,2019-07,Under investigation
+552,other-theft,75991230,52.642602,-1.138029,884336,Parking Area,Force,2019-07,Formal action is not in the public interest
+553,other-theft,75988652,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+554,other-theft,75985974,52.641932,-1.123898,884323,Montreal Road,Force,2019-07,Investigation complete; no suspect identified
+555,other-theft,75990002,52.622751,-1.150355,882299,Bisley Street,Force,2019-07,Formal action is not in the public interest
+556,other-theft,75985889,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+557,other-theft,75992305,52.626831,-1.137792,882305,Havelock Street,Force,2019-07,Under investigation
+558,other-theft,75985887,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+559,other-theft,75990517,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+560,other-theft,75991010,52.632591,-1.126360,883328,St George Street,Force,2019-07,Investigation complete; no suspect identified
+561,other-theft,75989636,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+562,other-theft,75991282,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Unable to prosecute suspect
+563,other-theft,75987196,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Under investigation
+564,other-theft,75991021,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+565,other-theft,75987887,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+566,other-theft,75985814,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+567,other-theft,75985813,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+568,possession-of-weapons,75984329,52.626534,-1.145096,882277,Sage Road,Force,2019-07,Under investigation
+569,possession-of-weapons,75986809,52.636255,-1.149295,883463,Warwick Street,Force,2019-07,Under investigation
+570,possession-of-weapons,75987941,52.619884,-1.114870,882407,The Avenue,Force,2019-07,Under investigation
+571,possession-of-weapons,75985573,52.639880,-1.118841,883033,Parking Area,Force,2019-07,Unable to prosecute suspect
+572,possession-of-weapons,75987371,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Under investigation
+573,possession-of-weapons,75989005,52.617281,-1.121451,882364,Howard Road,Force,2019-07,Unable to prosecute suspect
+574,possession-of-weapons,75985188,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Unable to prosecute suspect
+575,possession-of-weapons,75992598,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Under investigation
+576,possession-of-weapons,75989899,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Under investigation
+577,possession-of-weapons,75989648,52.632664,-1.149941,883590,Andrewes Close,Force,2019-07,Awaiting court outcome
+578,possession-of-weapons,75991786,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Under investigation
+579,possession-of-weapons,75988760,52.633879,-1.132821,883358,Horsefair Street,Force,2019-07,Unable to prosecute suspect
+580,public-order,75985381,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+581,public-order,75983876,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Unable to prosecute suspect
+582,public-order,75983904,52.629963,-1.122291,883268,Prebend Street,Force,2019-07,Unable to prosecute suspect
+583,public-order,75983909,52.632246,-1.129529,883311,York Street,Force,2019-07,Investigation complete; no suspect identified
+584,public-order,75983937,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Formal action is not in the public interest
+585,public-order,75984870,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+586,public-order,75984000,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+587,public-order,75984129,52.633540,-1.126977,883379,Church Street,Force,2019-07,Unable to prosecute suspect
+588,public-order,75984135,52.635001,-1.115466,883178,Berners Street,Force,2019-07,Formal action is not in the public interest
+589,public-order,75984271,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Formal action is not in the public interest
+590,public-order,75984309,52.635121,-1.139077,883430,High Street,Force,2019-07,Unable to prosecute suspect
+591,public-order,75984473,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Unable to prosecute suspect
+592,public-order,75984515,52.635767,-1.135267,883291,High Street,Force,2019-07,Unable to prosecute suspect
+593,public-order,75985182,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Under investigation
+594,public-order,76420748,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+595,public-order,75984797,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+596,public-order,75984813,52.636670,-1.140820,883432,Friars Causeway,Force,2019-07,Unable to prosecute suspect
+597,public-order,75986033,52.640715,-1.130854,884342,Wood Street,Force,2019-07,Unable to prosecute suspect
+598,public-order,75986109,52.630550,-1.154784,883561,Cherryleas Drive,Force,2019-07,Unable to prosecute suspect
+599,public-order,75986118,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Unable to prosecute suspect
+600,public-order,75986173,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Unable to prosecute suspect
+601,public-order,75988400,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Under investigation
+602,public-order,75986708,52.627866,-1.120737,883200,University Road,Force,2019-07,Investigation complete; no suspect identified
+603,public-order,75987082,52.630069,-1.133045,883344,Mill Street,Force,2019-07,Unable to prosecute suspect
+604,public-order,75987108,52.629293,-1.144983,1319949,Bede Park,Force,2019-07,Unable to prosecute suspect
+605,public-order,75987133,52.623555,-1.135995,882338,Hazel Street,Force,2019-07,Further investigation is not in the public interest
+606,public-order,75987228,52.630852,-1.130739,883336,Park Street,Force,2019-07,Awaiting court outcome
+607,public-order,75987321,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Unable to prosecute suspect
+608,public-order,75987428,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+609,public-order,75987560,52.641197,-1.129100,884356,A594,Force,2019-07,Awaiting court outcome
+610,public-order,75987581,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Awaiting court outcome
+611,public-order,75987643,52.625508,-1.111920,882488,Beckingham Road,Force,2019-07,Further investigation is not in the public interest
+612,public-order,75988740,52.632485,-1.132746,883404,Shopping Area,Force,2019-07,Under investigation
+613,public-order,75985753,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Investigation complete; no suspect identified
+614,public-order,75985780,52.638432,-1.129717,883293,Lee Circle,Force,2019-07,Further investigation is not in the public interest
+615,public-order,75985798,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+616,public-order,75988726,52.636362,-1.111168,883137,Hartington Road,Force,2019-07,Awaiting court outcome
+617,public-order,75988918,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Local resolution
+618,public-order,75988943,52.628993,-1.112795,883084,Sutherland Street,Force,2019-07,Unable to prosecute suspect
+619,public-order,75989389,52.637410,-1.115433,883135,Holland Road,Force,2019-07,Under investigation
+620,public-order,75989461,52.630562,-1.153971,883531,Parking Area,Force,2019-07,Under investigation
+621,public-order,75987868,52.633190,-1.116168,883104,Pluto Close,Force,2019-07,Formal action is not in the public interest
+622,public-order,75988022,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+623,public-order,75988034,52.624562,-1.152151,882300,Petrol Station,Force,2019-07,Unable to prosecute suspect
+624,public-order,75988310,52.627112,-1.150477,882209,Narborough Road,Force,2019-07,Investigation complete; no suspect identified
+625,public-order,75989771,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Under investigation
+626,public-order,75989355,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+627,public-order,75989797,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+628,public-order,75989871,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+629,public-order,75990670,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Under investigation
+630,public-order,75990511,52.632469,-1.134164,883334,Pocklingtons Walk,Force,2019-07,Under investigation
+631,public-order,75986572,52.628839,-1.123465,883279,De Montfort Place,Force,2019-07,Under investigation
+632,public-order,75991173,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+633,public-order,75983818,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+634,public-order,75991222,52.624057,-1.135734,882340,Filbert Street East,Force,2019-07,Under investigation
+635,public-order,75991281,52.636608,-1.117665,883215,Murray Street,Force,2019-07,Under investigation
+636,public-order,75990557,52.634324,-1.135916,883326,St Martins,Force,2019-07,Under investigation
+637,public-order,75990826,52.634369,-1.117533,883214,Pegasus Close,Force,2019-07,Unable to prosecute suspect
+638,public-order,75990874,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+639,public-order,75991808,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Under investigation
+640,public-order,75991377,52.634709,-1.141893,883422,Talbot Lane,Force,2019-07,Under investigation
+641,public-order,75991967,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Under investigation
+642,public-order,75991972,52.634324,-1.135916,883326,St Martins,Force,2019-07,Under investigation
+643,public-order,75992170,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+644,public-order,75992176,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Under investigation
+645,public-order,75991899,52.630277,-1.150593,883494,Latimer Street,Force,2019-07,Under investigation
+646,public-order,75992301,52.634474,-1.149197,883498,Kate Street,Force,2019-07,Under investigation
+647,public-order,75991733,52.629909,-1.132073,883345,Marquis Street,Force,2019-07,Under investigation
+648,public-order,75991759,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Under investigation
+649,public-order,75986911,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Under investigation
+650,public-order,75991774,52.630016,-1.149209,883514,Cranmer Street,Force,2019-07,Under investigation
+651,public-order,75992343,52.635974,-1.139045,883429,Highcross Street,Force,2019-07,Under investigation
+652,public-order,75992377,52.642180,-1.119859,884424,Kashmir Road,Force,2019-07,Under investigation
+653,public-order,75991922,52.641197,-1.129100,884356,A594,Force,2019-07,Under investigation
+654,public-order,75992186,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+655,public-order,75992189,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+656,public-order,75983862,52.626439,-1.111429,882465,Evington Place,Force,2019-07,Under investigation
+657,public-order,75992231,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Under investigation
+658,public-order,75992238,52.628804,-1.129716,883331,Rawson Street,Force,2019-07,Under investigation
+659,public-order,75992242,52.622762,-1.139452,882319,Burnmoor Street,Force,2019-07,Under investigation
+660,public-order,75992162,52.632664,-1.149941,883590,Andrewes Close,Force,2019-07,Under investigation
+661,public-order,75992264,52.622762,-1.139452,882319,Burnmoor Street,Force,2019-07,Under investigation
+662,public-order,75988604,52.641197,-1.129100,884356,A594,Force,2019-07,Unable to prosecute suspect
+663,public-order,75992296,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+664,public-order,75987195,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Under investigation
+665,public-order,75984489,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Unable to prosecute suspect
+666,public-order,75988594,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+667,public-order,75987198,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Under investigation
+668,public-order,75992600,52.634279,-1.130922,883366,Granby Place,Force,2019-07,Under investigation
+669,public-order,75992633,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Under investigation
+670,public-order,75986762,52.636328,-1.115070,883121,Melbourne Street,Force,2019-07,Under investigation
+671,public-order,75991910,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+672,public-order,75991619,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Formal action is not in the public interest
+673,public-order,75987135,52.623555,-1.135995,882338,Hazel Street,Force,2019-07,Further investigation is not in the public interest
+674,public-order,75989230,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Awaiting court outcome
+675,public-order,75989264,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Unable to prosecute suspect
+676,public-order,75984328,52.633888,-1.138924,883425,Peacock Lane,Force,2019-07,Under investigation
+677,public-order,75987555,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Under investigation
+678,public-order,75987580,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Under investigation
+679,public-order,75989702,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Unable to prosecute suspect
+680,public-order,75987601,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Under investigation
+681,public-order,75987606,52.630803,-1.125244,883274,London Road,Force,2019-07,Under investigation
+682,public-order,75989900,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Unable to prosecute suspect
+683,public-order,75989971,52.633680,-1.130225,883402,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+684,public-order,75986995,52.639559,-1.136271,883297,Pedestrian Subway,Force,2019-07,Under investigation
+685,public-order,75987042,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+686,public-order,75989122,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Unable to prosecute suspect
+687,public-order,75990100,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Awaiting court outcome
+688,public-order,75990250,52.624562,-1.152151,882300,Petrol Station,Force,2019-07,Investigation complete; no suspect identified
+689,public-order,75990292,52.627395,-1.115428,883052,Hamilton Street,Force,2019-07,Investigation complete; no suspect identified
+690,public-order,75990515,52.628738,-1.142807,883490,Mill Lane,Force,2019-07,Unable to prosecute suspect
+691,public-order,75990553,52.629018,-1.116148,883076,Welland Street,Force,2019-07,Investigation complete; no suspect identified
+692,public-order,75990625,52.633265,-1.125106,883277,Fox Street,Force,2019-07,Unable to prosecute suspect
+693,public-order,75990701,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+694,public-order,75990876,52.635121,-1.139077,883430,High Street,Force,2019-07,Investigation complete; no suspect identified
+695,public-order,75990914,52.633680,-1.130225,883402,Supermarket,Force,2019-07,Unable to prosecute suspect
+696,public-order,75991220,52.634824,-1.139112,883427,Janet Setchfield Place,Force,2019-07,Unable to prosecute suspect
+697,public-order,75991373,52.630327,-1.136349,883337,Oxford Street,Force,2019-07,Investigation complete; no suspect identified
+698,public-order,75991518,52.635071,-1.139699,883420,Vaughan Way,Force,2019-07,Unable to prosecute suspect
+699,public-order,75991566,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Awaiting court outcome
+700,public-order,75991567,52.626065,-1.137497,882341,Farndale Close,Force,2019-07,Unable to prosecute suspect
+701,public-order,75991588,52.640961,-1.126371,884343,Wharf Street North,Force,2019-07,Investigation complete; no suspect identified
+702,public-order,75991684,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+703,public-order,75991717,52.636670,-1.140820,883432,Friars Causeway,Force,2019-07,Investigation complete; no suspect identified
+704,public-order,75992064,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+705,public-order,75992111,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Unable to prosecute suspect
+706,public-order,75992122,52.625484,-1.120770,882399,Further/higher Educational Building,Force,2019-07,Investigation complete; no suspect identified
+707,public-order,75984200,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Formal action is not in the public interest
+708,public-order,75986943,52.642705,-1.123957,884318,Vancouver Road,Force,2019-07,Investigation complete; no suspect identified
+709,public-order,75985051,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+710,public-order,75985084,52.634736,-1.112590,883154,Duffield Street,Force,2019-07,Investigation complete; no suspect identified
+711,public-order,75985140,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Formal action is not in the public interest
+712,public-order,75985195,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Further investigation is not in the public interest
+713,public-order,75985198,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+714,public-order,75985350,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+715,public-order,75985432,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Unable to prosecute suspect
+716,public-order,75985442,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Unable to prosecute suspect
+717,public-order,75985463,52.630684,-1.128659,883373,Dunkirk Street,Force,2019-07,Unable to prosecute suspect
+718,public-order,75985473,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Unable to prosecute suspect
+719,public-order,75988119,52.632664,-1.149941,883590,Andrewes Close,Force,2019-07,Under investigation
+720,public-order,75985547,52.627491,-1.118661,883201,Mill Hill Lane,Force,2019-07,Investigation complete; no suspect identified
+721,public-order,75988137,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Under investigation
+722,public-order,75983815,52.635414,-1.128742,883313,Yeoman Street,Force,2019-07,Investigation complete; no suspect identified
+723,robbery,75986320,52.627979,-1.120277,883199,Victoria Avenue,Force,2019-07,Investigation complete; no suspect identified
+724,robbery,75989675,52.637662,-1.133796,883300,Parking Area,Force,2019-07,Under investigation
+725,robbery,75983930,52.632977,-1.136001,883315,Wycliffe Street,Force,2019-07,Under investigation
+726,robbery,75990784,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Under investigation
+727,robbery,75987545,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Unable to prosecute suspect
+728,robbery,75986011,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Under investigation
+729,robbery,75985835,52.633879,-1.132821,883358,Horsefair Street,Force,2019-07,Investigation complete; no suspect identified
+730,robbery,75986882,52.634324,-1.135916,883326,St Martins,Force,2019-07,Investigation complete; no suspect identified
+731,robbery,75991252,52.628988,-1.130274,883376,Crescent Street,Force,2019-07,Unable to prosecute suspect
+732,robbery,75985564,52.641659,-1.125899,884347,Ontario Close,Force,2019-07,Unable to prosecute suspect
+733,robbery,75985563,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Unable to prosecute suspect
+734,robbery,75991691,52.626489,-1.129097,882334,Lower Hastings Street,Force,2019-07,Investigation complete; no suspect identified
+735,robbery,75991219,52.643482,-1.128065,884357,Petrol Station,Force,2019-07,Unable to prosecute suspect
+736,robbery,75988213,52.633614,-1.144603,883474,St Augustine Road,Force,2019-07,Under investigation
+737,robbery,75987362,52.622142,-1.146969,882279,Quainton Road,Force,2019-07,Under investigation
+738,robbery,75989448,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Under investigation
+739,robbery,75989718,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Under investigation
+740,robbery,75989460,52.631238,-1.119635,883210,Sparkenhoe Street,Force,2019-07,Unable to prosecute suspect
+741,robbery,75986727,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Under investigation
+742,robbery,75989262,52.617281,-1.121451,882364,Howard Road,Force,2019-07,Under investigation
+743,robbery,75987761,52.631805,-1.139364,883434,Further/higher Educational Building,Force,2019-07,Unable to prosecute suspect
+744,robbery,75984971,52.631975,-1.133096,883320,Welford Place,Force,2019-07,Unable to prosecute suspect
+745,robbery,75989419,52.639721,-1.128878,883242,Nightclub,Force,2019-07,Unable to prosecute suspect
+746,shoplifting,75990680,52.626216,-1.147215,882268,Western Road,Force,2019-07,Investigation complete; no suspect identified
+747,shoplifting,75990685,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+748,shoplifting,75990029,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Under investigation
+749,shoplifting,75985422,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+750,shoplifting,75989730,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Under investigation
+751,shoplifting,75988392,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Unable to prosecute suspect
+752,shoplifting,75988325,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+753,shoplifting,75988151,52.635767,-1.135267,883291,High Street,Force,2019-07,Further investigation is not in the public interest
+754,shoplifting,75990803,52.636033,-1.138424,883368,Freeschool Lane,Force,2019-07,Investigation complete; no suspect identified
+755,shoplifting,75988066,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Further investigation is not in the public interest
+756,shoplifting,75984248,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+757,shoplifting,75992372,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Under investigation
+758,shoplifting,75990128,52.630373,-1.123051,883276,Glebe Street,Force,2019-07,Investigation complete; no suspect identified
+759,shoplifting,75992365,52.637069,-1.131414,883413,Supermarket,Force,2019-07,Under investigation
+760,shoplifting,75984246,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+761,shoplifting,75992322,52.626063,-1.110387,882463,Evington Road,Force,2019-07,Under investigation
+762,shoplifting,75991308,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+763,shoplifting,75984227,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Unable to prosecute suspect
+764,shoplifting,75990349,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Investigation complete; no suspect identified
+765,shoplifting,75990357,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Investigation complete; no suspect identified
+766,shoplifting,75983987,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Under investigation
+767,shoplifting,75990411,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Local resolution
+768,shoplifting,75988395,52.635715,-1.124436,883272,Midland Street,Force,2019-07,Investigation complete; no suspect identified
+769,shoplifting,75990987,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Under investigation
+770,shoplifting,75991163,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Under investigation
+771,shoplifting,76420745,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+772,shoplifting,75990424,52.636460,-1.135327,883405,Shopping Area,Force,2019-07,Under investigation
+773,shoplifting,75985413,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+774,shoplifting,75990374,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Under investigation
+775,shoplifting,75990338,52.635695,-1.130274,883350,Lower Free Lane,Force,2019-07,Under investigation
+776,shoplifting,75989645,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Under investigation
+777,shoplifting,75989875,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Under investigation
+778,shoplifting,75990325,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Under investigation
+779,shoplifting,75987992,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+780,shoplifting,75987944,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Local resolution
+781,shoplifting,75983910,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+782,shoplifting,75987938,52.637077,-1.131221,883298,Parking Area,Force,2019-07,Local resolution
+783,shoplifting,75987787,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Local resolution
+784,shoplifting,75988316,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Under investigation
+785,shoplifting,75991038,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+786,shoplifting,75991052,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+787,shoplifting,75988931,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+788,shoplifting,75991085,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Unable to prosecute suspect
+789,shoplifting,75991150,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Further investigation is not in the public interest
+790,shoplifting,75988876,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+791,shoplifting,75991198,52.627491,-1.118661,883201,Mill Hill Lane,Force,2019-07,Awaiting court outcome
+792,shoplifting,75988748,52.628738,-1.142807,883490,Mill Lane,Force,2019-07,Investigation complete; no suspect identified
+793,shoplifting,75988730,52.636532,-1.120711,1319944,St George's Retail Park,Force,2019-07,Investigation complete; no suspect identified
+794,shoplifting,75988718,52.637024,-1.128962,883408,Supermarket,Force,2019-07,Further investigation is not in the public interest
+795,shoplifting,75988675,52.631975,-1.133096,883320,Welford Place,Force,2019-07,Investigation complete; no suspect identified
+796,shoplifting,75988647,52.636145,-1.124324,883282,Burton Street,Force,2019-07,Further investigation is not in the public interest
+797,shoplifting,75985877,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Local resolution
+798,shoplifting,75991271,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+799,shoplifting,75985787,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Local resolution
+800,shoplifting,75991304,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+801,shoplifting,75988720,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Under investigation
+802,shoplifting,75984857,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Under investigation
+803,shoplifting,75987795,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+804,shoplifting,75989512,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Under investigation
+805,shoplifting,75991527,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+806,shoplifting,75987500,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Local resolution
+807,shoplifting,75984082,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Awaiting court outcome
+808,shoplifting,75987490,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+809,shoplifting,75991628,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+810,shoplifting,75987489,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Local resolution
+811,shoplifting,75987430,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Formal action is not in the public interest
+812,shoplifting,75991708,52.630212,-1.124369,883271,Nelson Street,Force,2019-07,Investigation complete; no suspect identified
+813,shoplifting,75987347,52.627627,-1.148325,883455,Gaul Street,Force,2019-07,Unable to prosecute suspect
+814,shoplifting,75991776,52.630212,-1.124369,883271,Nelson Street,Force,2019-07,Investigation complete; no suspect identified
+815,shoplifting,75987270,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Investigation complete; no suspect identified
+816,shoplifting,75991829,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Awaiting court outcome
+817,shoplifting,75988992,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Under investigation
+818,shoplifting,75991918,52.641659,-1.125899,884347,Ontario Close,Force,2019-07,Investigation complete; no suspect identified
+819,shoplifting,75986898,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+820,shoplifting,75986872,52.632591,-1.126360,883328,St George Street,Force,2019-07,Unable to prosecute suspect
+821,shoplifting,75988105,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Under investigation
+822,shoplifting,75986870,52.636145,-1.124324,883282,Burton Street,Force,2019-07,Unable to prosecute suspect
+823,shoplifting,75986644,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+824,shoplifting,75992251,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Local resolution
+825,shoplifting,75986452,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Local resolution
+826,shoplifting,75992351,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+827,shoplifting,75992496,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Local resolution
+828,shoplifting,75992540,52.635695,-1.130274,883350,Lower Free Lane,Force,2019-07,Investigation complete; no suspect identified
+829,shoplifting,75986400,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+830,shoplifting,75986392,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+831,shoplifting,75986335,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+832,shoplifting,75986334,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+833,shoplifting,75987323,52.636532,-1.120711,1319944,St George's Retail Park,Force,2019-07,Investigation complete; no suspect identified
+834,shoplifting,75986309,52.635715,-1.124436,883272,Midland Street,Force,2019-07,Investigation complete; no suspect identified
+835,shoplifting,75984948,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Local resolution
+836,shoplifting,75983923,52.626216,-1.147215,882268,Western Road,Force,2019-07,Investigation complete; no suspect identified
+837,shoplifting,75985056,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+838,shoplifting,75986174,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Local resolution
+839,shoplifting,75988489,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Awaiting court outcome
+840,shoplifting,75986151,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Local resolution
+841,shoplifting,75986147,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+842,shoplifting,75983822,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Local resolution
+843,shoplifting,75986136,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Unable to prosecute suspect
+844,shoplifting,75986097,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+845,shoplifting,75983821,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Local resolution
+846,shoplifting,75986075,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Unable to prosecute suspect
+847,shoplifting,75984880,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+848,shoplifting,75984801,52.620211,-1.133638,882352,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+849,shoplifting,75985194,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Investigation complete; no suspect identified
+850,shoplifting,75984771,52.616166,-1.127485,882336,Knighton Junction Lane,Force,2019-07,Investigation complete; no suspect identified
+851,shoplifting,75984557,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+852,shoplifting,75984548,52.636460,-1.135327,883405,Shopping Area,Force,2019-07,Awaiting court outcome
+853,shoplifting,75984434,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Unable to prosecute suspect
+854,shoplifting,75984433,52.617939,-1.118129,882393,Edward Road,Force,2019-07,Investigation complete; no suspect identified
+855,shoplifting,75984420,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+856,shoplifting,75984297,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+857,shoplifting,75984275,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+858,shoplifting,75989904,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Local resolution
+859,shoplifting,75989917,52.637069,-1.131414,883413,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+860,shoplifting,75985384,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+861,shoplifting,75989644,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Awaiting court outcome
+862,shoplifting,75990004,52.637354,-1.138383,883414,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+863,shoplifting,75987618,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Under investigation
+864,shoplifting,75987620,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Under investigation
+865,shoplifting,75984261,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+866,shoplifting,75987924,52.635767,-1.135267,883291,High Street,Force,2019-07,Under investigation
+867,shoplifting,75989473,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Awaiting court outcome
+868,shoplifting,75989441,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Unable to prosecute suspect
+869,shoplifting,75987260,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Under investigation
+870,shoplifting,75989303,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+871,shoplifting,75989242,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+872,shoplifting,75985395,52.635767,-1.135267,883291,High Street,Force,2019-07,Investigation complete; no suspect identified
+873,shoplifting,75983811,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Unable to prosecute suspect
+874,shoplifting,75990096,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Local resolution
+875,theft-from-the-person,75986190,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+876,theft-from-the-person,75988695,52.634736,-1.112590,883154,Duffield Street,Force,2019-07,Investigation complete; no suspect identified
+877,theft-from-the-person,75988503,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Unable to prosecute suspect
+878,theft-from-the-person,75989975,52.633007,-1.132839,883386,Bowling Green Street,Force,2019-07,Investigation complete; no suspect identified
+879,theft-from-the-person,75986375,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Under investigation
+880,theft-from-the-person,75991741,52.634379,-1.132294,883398,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+881,theft-from-the-person,75985949,52.638971,-1.138233,883385,Burgess Street,Force,2019-07,Investigation complete; no suspect identified
+882,theft-from-the-person,75987661,52.634040,-1.133838,883347,Market Place South,Force,2019-07,Investigation complete; no suspect identified
+883,theft-from-the-person,75992234,52.627058,-1.154260,882207,Beaconsfield Road,Force,2019-07,Under investigation
+884,theft-from-the-person,75987598,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+885,theft-from-the-person,75984158,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+886,theft-from-the-person,75990707,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+887,theft-from-the-person,75983838,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Investigation complete; no suspect identified
+888,theft-from-the-person,75985415,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+889,theft-from-the-person,75987013,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Investigation complete; no suspect identified
+890,theft-from-the-person,75989774,52.635434,-1.126658,883399,Conference/exhibition Centre,Force,2019-07,Investigation complete; no suspect identified
+891,theft-from-the-person,75987836,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+892,theft-from-the-person,75991054,52.630876,-1.116924,883149,Evington Street,Force,2019-07,Investigation complete; no suspect identified
+893,theft-from-the-person,75985556,52.637024,-1.128962,883408,Supermarket,Force,2019-07,Investigation complete; no suspect identified
+894,theft-from-the-person,75990672,52.635184,-1.135455,883410,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+895,theft-from-the-person,75988563,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+896,theft-from-the-person,75985536,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Investigation complete; no suspect identified
+897,theft-from-the-person,75989600,52.633879,-1.132821,883358,Horsefair Street,Force,2019-07,Investigation complete; no suspect identified
+898,theft-from-the-person,75985674,52.635121,-1.139077,883430,High Street,Force,2019-07,Investigation complete; no suspect identified
+899,theft-from-the-person,75987361,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+900,theft-from-the-person,75986761,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Investigation complete; no suspect identified
+901,theft-from-the-person,75986756,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Investigation complete; no suspect identified
+902,theft-from-the-person,75987773,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+903,theft-from-the-person,75990542,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Investigation complete; no suspect identified
+904,vehicle-crime,75988425,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Unable to prosecute suspect
+905,vehicle-crime,75985851,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+906,vehicle-crime,75986277,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+907,vehicle-crime,75984940,52.627126,-1.142455,882309,Eastern Boulevard,Force,2019-07,Investigation complete; no suspect identified
+908,vehicle-crime,75989739,52.620842,-1.131306,876361,Counting House Road,Force,2019-07,Investigation complete; no suspect identified
+909,vehicle-crime,75991364,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+910,vehicle-crime,75988438,52.634369,-1.117533,883214,Pegasus Close,Force,2019-07,Investigation complete; no suspect identified
+911,vehicle-crime,75986178,52.623521,-1.151167,882292,Eastleigh Road,Force,2019-07,Investigation complete; no suspect identified
+912,vehicle-crime,75987579,52.630016,-1.149209,883514,Cranmer Street,Force,2019-07,Investigation complete; no suspect identified
+913,vehicle-crime,75985044,52.635290,-1.148856,883517,Clifford Street,Force,2019-07,Investigation complete; no suspect identified
+914,vehicle-crime,75987503,52.630373,-1.123051,883276,Glebe Street,Force,2019-07,Investigation complete; no suspect identified
+915,vehicle-crime,75984083,52.633333,-1.151790,883526,Arundel Street,Force,2019-07,Investigation complete; no suspect identified
+916,vehicle-crime,75984459,52.628929,-1.122326,883273,London Road,Force,2019-07,Under investigation
+917,vehicle-crime,75990196,52.632883,-1.154148,883538,Stretton Road,Force,2019-07,Investigation complete; no suspect identified
+918,vehicle-crime,75989716,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Investigation complete; no suspect identified
+919,vehicle-crime,75991816,52.633265,-1.125106,883277,Fox Street,Force,2019-07,Under investigation
+920,vehicle-crime,75992253,52.637662,-1.133796,883300,Parking Area,Force,2019-07,Under investigation
+921,vehicle-crime,75987360,52.626681,-1.144339,882273,Thyme Close,Force,2019-07,Investigation complete; no suspect identified
+922,vehicle-crime,75984004,52.623986,-1.150833,882270,Walton Street,Force,2019-07,Investigation complete; no suspect identified
+923,vehicle-crime,75990923,52.617692,-1.118725,882389,Oxford Road,Force,2019-07,Investigation complete; no suspect identified
+924,vehicle-crime,75984002,52.622142,-1.146969,882279,Quainton Road,Force,2019-07,Investigation complete; no suspect identified
+925,vehicle-crime,75989084,52.629963,-1.122291,883268,Prebend Street,Force,2019-07,Unable to prosecute suspect
+926,vehicle-crime,75991716,52.622142,-1.146969,882279,Quainton Road,Force,2019-07,Under investigation
+927,vehicle-crime,75990011,52.627126,-1.142455,882309,Eastern Boulevard,Force,2019-07,Investigation complete; no suspect identified
+928,vehicle-crime,75987092,52.639721,-1.128878,883242,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+929,vehicle-crime,75986065,52.631718,-1.126171,883352,London Road,Force,2019-07,Investigation complete; no suspect identified
+930,vehicle-crime,75988450,52.628510,-1.133711,883251,Pelham Street,Force,2019-07,Under investigation
+931,vehicle-crime,75989617,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Investigation complete; no suspect identified
+932,vehicle-crime,75991712,52.636972,-1.151527,883467,Tyrrell Street,Force,2019-07,Investigation complete; no suspect identified
+933,vehicle-crime,75990492,52.641932,-1.123898,884323,Montreal Road,Force,2019-07,Investigation complete; no suspect identified
+934,vehicle-crime,75989606,52.639559,-1.136271,883297,Pedestrian Subway,Force,2019-07,Investigation complete; no suspect identified
+935,vehicle-crime,75990336,52.621978,-1.138005,882348,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+936,vehicle-crime,75987928,52.626489,-1.129097,882334,Lower Hastings Street,Force,2019-07,Investigation complete; no suspect identified
+937,vehicle-crime,75986777,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+938,vehicle-crime,75992169,52.632185,-1.118848,883226,Barnard Close,Force,2019-07,Investigation complete; no suspect identified
+939,vehicle-crime,75992171,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Investigation complete; no suspect identified
+940,vehicle-crime,75992463,52.620842,-1.131306,876361,Counting House Road,Force,2019-07,Under investigation
+941,vehicle-crime,75988036,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+942,vehicle-crime,75984620,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+943,vehicle-crime,75986574,52.620362,-1.117490,882501,B568,Force,2019-07,Investigation complete; no suspect identified
+944,vehicle-crime,75986492,52.627627,-1.148325,883455,Gaul Street,Force,2019-07,Investigation complete; no suspect identified
+945,vehicle-crime,75985391,52.624871,-1.150136,882281,Noel Street,Force,2019-07,Investigation complete; no suspect identified
+946,vehicle-crime,75989705,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Investigation complete; no suspect identified
+947,vehicle-crime,75987896,52.641992,-1.132085,884335,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+948,vehicle-crime,75984649,52.638293,-1.115784,883111,Nedham Street,Force,2019-07,Under investigation
+949,vehicle-crime,75984545,52.628804,-1.129716,883331,Rawson Street,Force,2019-07,Investigation complete; no suspect identified
+950,vehicle-crime,75992509,52.641553,-1.121290,884331,Chester Close,Force,2019-07,Investigation complete; no suspect identified
+951,vehicle-crime,75990958,52.623287,-1.146119,882265,Woodford Road,Force,2019-07,Investigation complete; no suspect identified
+952,vehicle-crime,75987768,52.639880,-1.118841,883033,Parking Area,Force,2019-07,Unable to prosecute suspect
+953,vehicle-crime,75986404,52.625591,-1.142839,882272,Upperton Road,Force,2019-07,Investigation complete; no suspect identified
+954,vehicle-crime,75988121,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+955,vehicle-crime,75990780,52.623940,-1.145663,882294,Darnall Road,Force,2019-07,Investigation complete; no suspect identified
+956,vehicle-crime,75985277,52.625909,-1.112636,882408,Tennyson Street,Force,2019-07,Investigation complete; no suspect identified
+957,vehicle-crime,75988914,52.629543,-1.125032,883270,Nelson Street,Force,2019-07,Investigation complete; no suspect identified
+958,vehicle-crime,75989546,52.639667,-1.130136,883241,Jubilee Road,Force,2019-07,Investigation complete; no suspect identified
+959,vehicle-crime,75991121,52.627126,-1.142455,882309,Eastern Boulevard,Force,2019-07,Investigation complete; no suspect identified
+960,vehicle-crime,75989385,52.634769,-1.142734,883525,Bath Lane,Force,2019-07,Investigation complete; no suspect identified
+961,vehicle-crime,75983985,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+962,vehicle-crime,75989285,52.641646,-1.131486,884340,Yarmouth Street,Force,2019-07,Investigation complete; no suspect identified
+963,vehicle-crime,75986345,52.639880,-1.118841,883033,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+964,vehicle-crime,75989163,52.623521,-1.151167,882292,Eastleigh Road,Force,2019-07,Investigation complete; no suspect identified
+965,vehicle-crime,75992327,52.638691,-1.131914,883400,Nightclub,Force,2019-07,Under investigation
+966,vehicle-crime,75986331,52.622142,-1.146969,882279,Quainton Road,Force,2019-07,Investigation complete; no suspect identified
+967,vehicle-crime,75983966,52.633477,-1.147990,883509,Fitzroy Street,Force,2019-07,Investigation complete; no suspect identified
+968,vehicle-crime,75991238,52.623932,-1.142148,882310,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+969,vehicle-crime,75990400,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+970,vehicle-crime,75990684,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Investigation complete; no suspect identified
+971,violent-crime,76420743,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+972,violent-crime,75983950,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Investigation complete; no suspect identified
+973,violent-crime,75984080,52.633894,-1.114174,883120,Mensa Close,Force,2019-07,Under investigation
+974,violent-crime,75984827,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Investigation complete; no suspect identified
+975,violent-crime,75983854,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+976,violent-crime,75984251,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Under investigation
+977,violent-crime,75984264,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+978,violent-crime,75984498,52.627396,-1.141238,883417,Ullswater Street,Force,2019-07,Under investigation
+979,violent-crime,75984136,52.637407,-1.133343,883409,Supermarket,Force,2019-07,Under investigation
+980,violent-crime,75983810,52.626906,-1.119752,882384,Further/higher Educational Building,Force,2019-07,Under investigation
+981,violent-crime,75983812,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Under investigation
+982,violent-crime,75983835,52.626534,-1.145096,882277,Sage Road,Force,2019-07,Under investigation
+983,violent-crime,75984419,52.634522,-1.116318,883082,Taurus Close,Force,2019-07,Under investigation
+984,violent-crime,75984448,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Under investigation
+985,violent-crime,75984461,52.625589,-1.139973,882314,Thirlmere Street,Force,2019-07,Under investigation
+986,violent-crime,75984168,52.627272,-1.152793,882212,Browning Street,Force,2019-07,Under investigation
+987,violent-crime,75984184,52.622258,-1.119741,1319930,Victoria Park,Force,2019-07,Under investigation
+988,violent-crime,75984208,52.631580,-1.108931,883148,Fairfield Street,Force,2019-07,Under investigation
+989,violent-crime,75984299,52.632002,-1.112350,883158,Diseworth Street,Force,2019-07,Under investigation
+990,violent-crime,75984368,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+991,violent-crime,75985961,52.640478,-1.127873,884353,Burleys Flyover,Force,2019-07,Under investigation
+992,violent-crime,75985082,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Under investigation
+993,violent-crime,75985102,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Under investigation
+994,violent-crime,75985474,52.632469,-1.134164,883334,Pocklingtons Walk,Force,2019-07,Under investigation
+995,violent-crime,75985485,52.635121,-1.139077,883430,High Street,Force,2019-07,Under investigation
+996,violent-crime,75985488,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+997,violent-crime,75985663,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Unable to prosecute suspect
+998,violent-crime,75985664,52.639626,-1.130639,883389,Belgrave Gate,Force,2019-07,Unable to prosecute suspect
+999,violent-crime,75986301,52.625591,-1.142839,882272,Upperton Road,Force,2019-07,Under investigation
+1000,violent-crime,75985511,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Under investigation
+1001,violent-crime,75985751,52.627307,-1.140191,883419,Grasmere Street,Force,2019-07,Under investigation
+1002,violent-crime,75986351,52.637410,-1.115433,883135,Holland Road,Force,2019-07,Under investigation
+1003,violent-crime,75986692,52.633888,-1.138924,883425,Peacock Lane,Force,2019-07,Under investigation
+1004,violent-crime,75986560,52.636255,-1.149295,883463,Warwick Street,Force,2019-07,Under investigation
+1005,violent-crime,75986576,52.637465,-1.141233,883431,Great Central Street,Force,2019-07,Under investigation
+1006,violent-crime,75985819,52.617939,-1.118129,882393,Edward Road,Force,2019-07,Under investigation
+1007,violent-crime,75985831,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Unable to prosecute suspect
+1008,violent-crime,75986012,52.635904,-1.136786,883412,Shopping Area,Force,2019-07,Under investigation
+1009,violent-crime,75986022,52.640795,-1.124616,884326,Mackenzie Way,Force,2019-07,Under investigation
+1010,violent-crime,75986753,52.628757,-1.143043,883461,Western Boulevard,Force,2019-07,Under investigation
+1011,violent-crime,75986877,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Under investigation
+1012,violent-crime,75986886,52.629264,-1.154764,883534,Westcotes Drive,Force,2019-07,Under investigation
+1013,violent-crime,75986956,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Under investigation
+1014,violent-crime,75986985,52.629797,-1.130272,883332,Princess Road Backways,Force,2019-07,Under investigation
+1015,violent-crime,75987051,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Under investigation
+1016,violent-crime,75987090,52.638769,-1.126548,883377,Crafton Street West,Force,2019-07,Under investigation
+1017,violent-crime,75987440,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Under investigation
+1018,violent-crime,75987207,52.635904,-1.136786,883412,Shopping Area,Force,2019-07,Under investigation
+1019,violent-crime,75987226,52.626534,-1.145096,882277,Sage Road,Force,2019-07,Under investigation
+1020,violent-crime,75987265,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1021,violent-crime,75987275,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Under investigation
+1022,violent-crime,75987756,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Under investigation
+1023,violent-crime,75987552,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1024,violent-crime,75987556,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1025,violent-crime,75987588,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Under investigation
+1026,violent-crime,75988180,52.631380,-1.135338,883322,Upper Brown Street,Force,2019-07,Under investigation
+1027,violent-crime,75988212,52.630628,-1.116219,883143,Gopsall Street,Force,2019-07,Under investigation
+1028,violent-crime,75988289,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Under investigation
+1029,violent-crime,75988550,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Under investigation
+1030,violent-crime,75988329,52.631954,-1.124083,1319932,Leicester Station,Force,2019-07,Under investigation
+1031,violent-crime,75987394,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Under investigation
+1032,violent-crime,75987419,52.632461,-1.112400,883159,Derwent Street,Force,2019-07,Under investigation
+1033,violent-crime,75988434,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Under investigation
+1034,violent-crime,75988437,52.629700,-1.147797,883518,Celt Street,Force,2019-07,Under investigation
+1035,violent-crime,75988474,52.630394,-1.119844,883211,Seymour Street,Force,2019-07,Under investigation
+1036,violent-crime,75988491,52.627744,-1.118922,883202,Mandora Lane,Force,2019-07,Under investigation
+1037,violent-crime,75988631,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Under investigation
+1038,violent-crime,75988127,52.636362,-1.111168,883137,Hartington Road,Force,2019-07,Under investigation
+1039,violent-crime,75984950,52.626081,-1.110505,882461,Evington Road,Force,2019-07,Under investigation
+1040,violent-crime,75984960,52.628499,-1.132174,883248,Trinity Lane,Force,2019-07,Under investigation
+1041,violent-crime,75984965,52.639667,-1.130136,883241,Jubilee Road,Force,2019-07,Under investigation
+1042,violent-crime,75984247,52.631580,-1.108931,883148,Fairfield Street,Force,2019-07,Under investigation
+1043,violent-crime,75984631,52.635415,-1.114335,883073,Wilson Street,Force,2019-07,Under investigation
+1044,violent-crime,75984636,52.631151,-1.121247,883275,Lincoln Street,Force,2019-07,Investigation complete; no suspect identified
+1045,violent-crime,75985353,52.632485,-1.132746,883404,Shopping Area,Force,2019-07,Under investigation
+1046,violent-crime,75985371,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Under investigation
+1047,violent-crime,75984581,52.633540,-1.126977,883379,Church Street,Force,2019-07,Under investigation
+1048,violent-crime,75984676,52.626895,-1.141558,882308,Rydal Street,Force,2019-07,Under investigation
+1049,violent-crime,75985382,52.624424,-1.150485,882275,Stuart Street,Force,2019-07,Under investigation
+1050,violent-crime,75985575,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Under investigation
+1051,violent-crime,75987875,52.637543,-1.118844,883218,Kent Street,Force,2019-07,Under investigation
+1052,violent-crime,75988069,52.637432,-1.126885,883333,Potter Street,Force,2019-07,Under investigation
+1053,violent-crime,75988811,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Under investigation
+1054,violent-crime,75988827,52.621591,-1.113536,882481,Cedars Court,Force,2019-07,Under investigation
+1055,violent-crime,75988841,52.635184,-1.135455,883410,Shopping Area,Force,2019-07,Under investigation
+1056,violent-crime,75988971,52.626210,-1.108464,882445,Linton Street,Force,2019-07,Awaiting court outcome
+1057,violent-crime,75989267,52.627792,-1.135069,883255,Infirmary Close,Force,2019-07,Under investigation
+1058,violent-crime,75989927,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1059,violent-crime,75989936,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Under investigation
+1060,violent-crime,75989723,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Under investigation
+1061,violent-crime,75989727,52.626895,-1.141558,882308,Rydal Street,Force,2019-07,Under investigation
+1062,violent-crime,75989731,52.635974,-1.139045,883429,Highcross Street,Force,2019-07,Under investigation
+1063,violent-crime,75989735,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Under investigation
+1064,violent-crime,75989766,52.629963,-1.122291,883268,Prebend Street,Force,2019-07,Under investigation
+1065,violent-crime,75989778,52.635783,-1.137498,883299,Parking Area,Force,2019-07,Under investigation
+1066,violent-crime,75990489,52.630596,-1.147381,883488,Narborough Road,Force,2019-07,Under investigation
+1067,violent-crime,75989864,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+1068,violent-crime,75989616,52.641197,-1.129100,884356,A594,Force,2019-07,Under investigation
+1069,violent-crime,75989642,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Under investigation
+1070,violent-crime,75989674,52.625345,-1.148546,882276,Sheffield Street,Force,2019-07,Under investigation
+1071,violent-crime,75990252,52.637543,-1.118844,883218,Kent Street,Force,2019-07,Under investigation
+1072,violent-crime,75990652,52.628510,-1.134937,883253,Infirmary Square,Force,2019-07,Under investigation
+1073,violent-crime,75990797,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+1074,violent-crime,75991229,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Awaiting court outcome
+1075,violent-crime,75991176,52.636033,-1.138424,883368,Freeschool Lane,Force,2019-07,Under investigation
+1076,violent-crime,75991199,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+1077,violent-crime,75990919,52.630803,-1.125244,883274,London Road,Force,2019-07,Under investigation
+1078,violent-crime,75990920,52.626489,-1.129097,882334,Lower Hastings Street,Force,2019-07,Under investigation
+1079,violent-crime,75990921,52.631524,-1.112242,883157,Donnington Street,Force,2019-07,Under investigation
+1080,violent-crime,75990947,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Unable to prosecute suspect
+1081,violent-crime,75991117,52.627414,-1.138800,883418,Jarrom Street,Force,2019-07,Under investigation
+1082,violent-crime,75991262,52.624935,-1.109849,882443,Lyme Road,Force,2019-07,Under investigation
+1083,violent-crime,75990690,52.626050,-1.119606,882392,Granville Road,Force,2019-07,Under investigation
+1084,violent-crime,75990805,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Under investigation
+1085,violent-crime,75990552,52.628757,-1.143043,883461,Western Boulevard,Force,2019-07,Under investigation
+1086,violent-crime,75990576,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Under investigation
+1087,violent-crime,75990584,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+1088,violent-crime,75990586,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Under investigation
+1089,violent-crime,75990596,52.638770,-1.121893,883283,Brunswick Street,Force,2019-07,Under investigation
+1090,violent-crime,75991547,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Under investigation
+1091,violent-crime,75991577,52.636972,-1.151527,883467,Tyrrell Street,Force,2019-07,Under investigation
+1092,violent-crime,75991573,52.631684,-1.144951,883471,Thorpe Street,Force,2019-07,Unable to prosecute suspect
+1093,violent-crime,75991584,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Under investigation
+1094,violent-crime,75990823,52.632993,-1.129633,883396,Nightclub,Force,2019-07,Under investigation
+1095,violent-crime,75991053,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Under investigation
+1096,violent-crime,75990858,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Under investigation
+1097,violent-crime,75991297,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1098,violent-crime,75991384,52.635695,-1.130274,883350,Lower Free Lane,Force,2019-07,Under investigation
+1099,violent-crime,75991389,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Under investigation
+1100,violent-crime,75991614,52.635826,-1.149673,883521,Bosworth Street,Force,2019-07,Under investigation
+1101,violent-crime,75992180,52.627147,-1.117117,883047,St Albans Road,Force,2019-07,Under investigation
+1102,violent-crime,75991849,52.631611,-1.122612,883264,Slate Street,Force,2019-07,Under investigation
+1103,violent-crime,75991862,52.636670,-1.140820,883432,Friars Causeway,Force,2019-07,Under investigation
+1104,violent-crime,75991887,52.625516,-1.137404,882339,Grisedale Close,Force,2019-07,Under investigation
+1105,violent-crime,75991897,52.633414,-1.123359,883262,Swain Street,Force,2019-07,Under investigation
+1106,violent-crime,75991916,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1107,violent-crime,75991736,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Under investigation
+1108,violent-crime,75991755,52.639559,-1.136271,883297,Pedestrian Subway,Force,2019-07,Under investigation
+1109,violent-crime,75991760,52.631628,-1.128581,883383,Calais Street,Force,2019-07,Under investigation
+1110,violent-crime,75991748,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Unable to prosecute suspect
+1111,violent-crime,75991779,52.633888,-1.138924,883425,Peacock Lane,Force,2019-07,Under investigation
+1112,violent-crime,75992338,52.637077,-1.131221,883298,Parking Area,Force,2019-07,Under investigation
+1113,violent-crime,75992373,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Under investigation
+1114,violent-crime,75992127,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Under investigation
+1115,violent-crime,75992130,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+1116,violent-crime,75992530,52.631131,-1.108910,883155,Dronfield Street,Force,2019-07,Under investigation
+1117,violent-crime,75992531,52.632591,-1.126360,883328,St George Street,Force,2019-07,Under investigation
+1118,violent-crime,75992533,52.640715,-1.130854,884342,Wood Street,Force,2019-07,Under investigation
+1119,violent-crime,75992536,52.640715,-1.130854,884342,Wood Street,Force,2019-07,Under investigation
+1120,violent-crime,75992537,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Under investigation
+1121,violent-crime,75992205,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Under investigation
+1122,violent-crime,75992225,52.634522,-1.116318,883082,Taurus Close,Force,2019-07,Under investigation
+1123,violent-crime,75991683,52.637830,-1.149501,883465,Vernon Street,Force,2019-07,Under investigation
+1124,violent-crime,75991843,52.625516,-1.137404,882339,Grisedale Close,Force,2019-07,Under investigation
+1125,violent-crime,75992146,52.628499,-1.132174,883248,Trinity Lane,Force,2019-07,Under investigation
+1126,violent-crime,75992257,52.629032,-1.119207,883207,Tichborne Street,Force,2019-07,Under investigation
+1127,violent-crime,75992258,52.637024,-1.128962,883408,Supermarket,Force,2019-07,Under investigation
+1128,violent-crime,75992271,52.634522,-1.116318,883082,Taurus Close,Force,2019-07,Under investigation
+1129,violent-crime,75984028,52.636536,-1.128602,883356,Humberstone Gate,Force,2019-07,Investigation complete; no suspect identified
+1130,violent-crime,75992404,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Under investigation
+1131,violent-crime,75992565,52.631131,-1.108910,883155,Dronfield Street,Force,2019-07,Under investigation
+1132,violent-crime,75992566,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+1133,violent-crime,75988641,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Unable to prosecute suspect
+1134,violent-crime,75991002,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1135,violent-crime,75992048,52.635006,-1.127066,883394,Nightclub,Force,2019-07,Investigation complete; no suspect identified
+1136,violent-crime,75989228,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1137,violent-crime,75989252,52.631131,-1.108910,883155,Dronfield Street,Force,2019-07,Unable to prosecute suspect
+1138,violent-crime,75989366,52.636110,-1.131802,883290,Humberstone Gate,Force,2019-07,Unable to prosecute suspect
+1139,violent-crime,75989387,52.628177,-1.154830,883452,Barclay Street,Force,2019-07,Unable to prosecute suspect
+1140,violent-crime,75989408,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Awaiting court outcome
+1141,violent-crime,75989433,52.635121,-1.139077,883430,High Street,Force,2019-07,Investigation complete; no suspect identified
+1142,violent-crime,75989467,52.622751,-1.150355,882299,Bisley Street,Force,2019-07,Unable to prosecute suspect
+1143,violent-crime,75989528,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1144,violent-crime,75989680,52.627664,-1.149757,883457,Supermarket,Force,2019-07,Unable to prosecute suspect
+1145,violent-crime,75989692,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+1146,violent-crime,75989719,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Unable to prosecute suspect
+1147,violent-crime,75989737,52.640478,-1.127873,884353,Burleys Flyover,Force,2019-07,Further investigation is not in the public interest
+1148,violent-crime,75989740,52.640478,-1.127873,884353,Burleys Flyover,Force,2019-07,Unable to prosecute suspect
+1149,violent-crime,75990008,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1150,violent-crime,75990020,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Unable to prosecute suspect
+1151,violent-crime,75988993,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Unable to prosecute suspect
+1152,violent-crime,75989014,52.633540,-1.126977,883379,Church Street,Force,2019-07,Investigation complete; no suspect identified
+1153,violent-crime,75989018,52.628825,-1.110671,883098,Roslyn Street,Force,2019-07,Unable to prosecute suspect
+1154,violent-crime,75989019,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1155,violent-crime,75989021,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1156,violent-crime,75989024,52.627470,-1.124409,883260,Princess Road East,Force,2019-07,Unable to prosecute suspect
+1157,violent-crime,75989025,52.629293,-1.144983,1319949,Bede Park,Force,2019-07,Unable to prosecute suspect
+1158,violent-crime,75989027,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Unable to prosecute suspect
+1159,violent-crime,75989066,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Unable to prosecute suspect
+1160,violent-crime,75989075,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Unable to prosecute suspect
+1161,violent-crime,75989155,52.636532,-1.120711,1319944,St George's Retail Park,Force,2019-07,Investigation complete; no suspect identified
+1162,violent-crime,75986608,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+1163,violent-crime,75990041,52.627414,-1.138800,883418,Jarrom Street,Force,2019-07,Investigation complete; no suspect identified
+1164,violent-crime,75990221,52.628925,-1.112087,883167,Chandos Street,Force,2019-07,Unable to prosecute suspect
+1165,violent-crime,75990277,52.629292,-1.117842,883212,Severn Street,Force,2019-07,Unable to prosecute suspect
+1166,violent-crime,75990289,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Unable to prosecute suspect
+1167,violent-crime,75990334,52.633379,-1.113741,883122,Melbourne Road,Force,2019-07,Unable to prosecute suspect
+1168,violent-crime,75990364,52.630103,-1.112049,883152,Earl Howe Street,Force,2019-07,Investigation complete; no suspect identified
+1169,violent-crime,75990375,52.627525,-1.130568,883252,Newtown Street,Force,2019-07,Unable to prosecute suspect
+1170,violent-crime,75990473,52.626908,-1.114064,882376,Onslow Street,Force,2019-07,Unable to prosecute suspect
+1171,violent-crime,75990567,52.626216,-1.147215,882268,Western Road,Force,2019-07,Investigation complete; no suspect identified
+1172,violent-crime,75983814,52.640298,-1.125483,883237,Lethbridge Close,Force,2019-07,Unable to prosecute suspect
+1173,violent-crime,75990825,52.630675,-1.129841,883319,Wellington Street,Force,2019-07,Unable to prosecute suspect
+1174,violent-crime,75990864,52.623986,-1.150833,882270,Walton Street,Force,2019-07,Investigation complete; no suspect identified
+1175,violent-crime,75990888,52.626489,-1.129097,882334,Lower Hastings Street,Force,2019-07,Unable to prosecute suspect
+1176,violent-crime,75990945,52.642641,-1.122628,884320,Taylor Road,Force,2019-07,Unable to prosecute suspect
+1177,violent-crime,75990973,52.627933,-1.139691,883416,Parking Area,Force,2019-07,Unable to prosecute suspect
+1178,violent-crime,75989339,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Further investigation is not in the public interest
+1179,violent-crime,75991145,52.635598,-1.129330,883314,Yeoman Lane,Force,2019-07,Unable to prosecute suspect
+1180,violent-crime,75991172,52.634369,-1.117533,883214,Pegasus Close,Force,2019-07,Unable to prosecute suspect
+1181,violent-crime,75991175,52.632461,-1.112400,883159,Derwent Street,Force,2019-07,Unable to prosecute suspect
+1182,violent-crime,75991221,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+1183,violent-crime,75991243,52.627491,-1.118661,883201,Mill Hill Lane,Force,2019-07,Awaiting court outcome
+1184,violent-crime,75991258,52.642180,-1.119859,884424,Kashmir Road,Force,2019-07,Investigation complete; no suspect identified
+1185,violent-crime,75991291,52.628510,-1.134937,883253,Infirmary Square,Force,2019-07,Investigation complete; no suspect identified
+1186,violent-crime,75991339,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1187,violent-crime,75991514,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Unable to prosecute suspect
+1188,violent-crime,75991525,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Further investigation is not in the public interest
+1189,violent-crime,75991629,52.626412,-1.109095,882457,Glossop Street,Force,2019-07,Unable to prosecute suspect
+1190,violent-crime,75991678,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Unable to prosecute suspect
+1191,violent-crime,75989475,52.627147,-1.117117,883047,St Albans Road,Force,2019-07,Unable to prosecute suspect
+1192,violent-crime,75984027,52.625976,-1.151252,882271,Upperton Road,Force,2019-07,Unable to prosecute suspect
+1193,violent-crime,75992076,52.625484,-1.120770,882399,Further/higher Educational Building,Force,2019-07,Investigation complete; no suspect identified
+1194,violent-crime,75992132,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+1195,violent-crime,75992217,52.638140,-1.150101,883483,Nugent Street,Force,2019-07,Investigation complete; no suspect identified
+1196,violent-crime,75992293,52.627450,-1.111969,883050,Myrtle Road,Force,2019-07,Unable to prosecute suspect
+1197,violent-crime,75985355,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1198,violent-crime,75986144,52.635449,-1.140918,883428,Holy Bones,Force,2019-07,Further investigation is not in the public interest
+1199,violent-crime,75984914,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Unable to prosecute suspect
+1200,violent-crime,75984926,52.627058,-1.154260,882207,Beaconsfield Road,Force,2019-07,Further investigation is not in the public interest
+1201,violent-crime,75984969,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Awaiting court outcome
+1202,violent-crime,75985104,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Unable to prosecute suspect
+1203,violent-crime,75985106,52.633347,-1.135034,883387,Berridge Street,Force,2019-07,Investigation complete; no suspect identified
+1204,violent-crime,75985120,52.629434,-1.120055,883213,Saxby Street,Force,2019-07,Investigation complete; no suspect identified
+1205,violent-crime,75985241,52.635005,-1.117284,883219,Jupiter Close,Force,2019-07,Unable to prosecute suspect
+1206,violent-crime,75985248,52.642332,-1.141714,884304,Slater Street,Force,2019-07,Unable to prosecute suspect
+1207,violent-crime,75985289,52.628499,-1.132174,883248,Trinity Lane,Force,2019-07,Unable to prosecute suspect
+1208,violent-crime,75985290,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+1209,violent-crime,75985366,52.624619,-1.133979,882346,Aylestone Road,Force,2019-07,Awaiting court outcome
+1210,violent-crime,75985404,52.637516,-1.150808,883522,Borlace Street,Force,2019-07,Unable to prosecute suspect
+1211,violent-crime,75985482,52.631664,-1.132274,883393,Nightclub,Force,2019-07,Unable to prosecute suspect
+1212,violent-crime,75985487,52.640458,-1.128879,884349,Gower Street,Force,2019-07,Unable to prosecute suspect
+1213,violent-crime,75985503,52.637516,-1.150808,883522,Borlace Street,Force,2019-07,Local resolution
+1214,violent-crime,75985522,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Awaiting court outcome
+1215,violent-crime,75985527,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1216,violent-crime,75985552,52.631373,-1.145474,883503,Foxon Street,Force,2019-07,Unable to prosecute suspect
+1217,violent-crime,75985553,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Unable to prosecute suspect
+1218,violent-crime,75987750,52.634693,-1.140799,883424,St Nicholas Circle,Force,2019-07,Unable to prosecute suspect
+1219,violent-crime,75983828,52.633414,-1.131841,876793,Bishop Street,Force,2019-07,Investigation complete; no suspect identified
+1220,violent-crime,75983900,52.625560,-1.152206,882301,Petrol Station,Force,2019-07,Unable to prosecute suspect
+1221,violent-crime,75983956,52.621287,-1.136881,882350,Sports/recreation Area,Force,2019-07,Unable to prosecute suspect
+1222,violent-crime,75983960,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1223,violent-crime,75983962,52.642641,-1.122628,884320,Taylor Road,Force,2019-07,Unable to prosecute suspect
+1224,violent-crime,75984009,52.631090,-1.122770,883287,Andover Street,Force,2019-07,Unable to prosecute suspect
+1225,violent-crime,75984014,52.636250,-1.133691,883415,Shopping Area,Force,2019-07,Investigation complete; no suspect identified
+1226,violent-crime,75984025,52.629259,-1.151470,883476,Shaftesbury Road,Force,2019-07,Unable to prosecute suspect
+1227,violent-crime,75984039,52.630876,-1.116924,883149,Evington Street,Force,2019-07,Unable to prosecute suspect
+1228,violent-crime,75984045,52.632073,-1.126829,883364,Granby Street,Force,2019-07,Unable to prosecute suspect
+1229,violent-crime,75984053,52.627450,-1.111969,883050,Myrtle Road,Force,2019-07,Unable to prosecute suspect
+1230,violent-crime,75984133,52.627387,-1.137589,883244,Winifred Street,Force,2019-07,Unable to prosecute suspect
+1231,violent-crime,75984156,52.643544,-1.125551,884317,Wanlip Street,Force,2019-07,Investigation complete; no suspect identified
+1232,violent-crime,75984161,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Unable to prosecute suspect
+1233,violent-crime,75984163,52.630562,-1.153971,883531,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+1234,violent-crime,75984172,52.637674,-1.147819,883469,Tudor Road,Force,2019-07,Awaiting court outcome
+1235,violent-crime,75984215,52.632485,-1.132746,883404,Shopping Area,Force,2019-07,Awaiting court outcome
+1236,violent-crime,75984218,52.627692,-1.132545,883257,Prison,Force,2019-07,Investigation complete; no suspect identified
+1237,violent-crime,75984224,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Investigation complete; no suspect identified
+1238,violent-crime,75984472,52.641659,-1.125899,884347,Ontario Close,Force,2019-07,Unable to prosecute suspect
+1239,violent-crime,75984476,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Investigation complete; no suspect identified
+1240,violent-crime,75984507,52.636972,-1.151527,883467,Tyrrell Street,Force,2019-07,Formal action is not in the public interest
+1241,violent-crime,75984524,52.633379,-1.113741,883122,Melbourne Road,Force,2019-07,Unable to prosecute suspect
+1242,violent-crime,75984566,52.625484,-1.120770,882399,Further/higher Educational Building,Force,2019-07,Investigation complete; no suspect identified
+1243,violent-crime,75984582,52.627933,-1.139691,883416,Parking Area,Force,2019-07,Unable to prosecute suspect
+1244,violent-crime,75984593,52.627692,-1.132545,883257,Prison,Force,2019-07,Action to be taken by another organisation
+1245,violent-crime,75984624,52.637432,-1.126885,883333,Potter Street,Force,2019-07,Unable to prosecute suspect
+1246,violent-crime,75984639,52.634522,-1.116318,883082,Taurus Close,Force,2019-07,Unable to prosecute suspect
+1247,violent-crime,75984693,52.636972,-1.151527,883467,Tyrrell Street,Force,2019-07,Unable to prosecute suspect
+1248,violent-crime,75984758,52.636243,-1.127810,883321,Vestry Street,Force,2019-07,Unable to prosecute suspect
+1249,violent-crime,75984775,52.627959,-1.111560,883060,Bartholomew Street,Force,2019-07,Investigation complete; no suspect identified
+1250,violent-crime,75984781,52.636936,-1.135347,883406,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1251,violent-crime,75984802,52.634859,-1.151406,883508,Flora Street,Force,2019-07,Unable to prosecute suspect
+1252,violent-crime,75984848,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1253,violent-crime,75984851,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Investigation complete; no suspect identified
+1254,violent-crime,75984886,52.639721,-1.128878,883242,Nightclub,Force,2019-07,Unable to prosecute suspect
+1255,violent-crime,75984895,52.629292,-1.117842,883212,Severn Street,Force,2019-07,Investigation complete; no suspect identified
+1256,violent-crime,75984906,52.630744,-1.114858,883081,Twycross Street,Force,2019-07,Awaiting court outcome
+1257,violent-crime,75986004,52.631238,-1.119635,883210,Sparkenhoe Street,Force,2019-07,Unable to prosecute suspect
+1258,violent-crime,75986034,52.623986,-1.150833,882270,Walton Street,Force,2019-07,Unable to prosecute suspect
+1259,violent-crime,75986067,52.633145,-1.129511,883365,Granby Street,Force,2019-07,Unable to prosecute suspect
+1260,violent-crime,75986145,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+1261,violent-crime,75986307,52.620394,-1.114564,882446,Knighton Park Road,Force,2019-07,Further investigation is not in the public interest
+1262,violent-crime,75986322,52.636790,-1.131360,883288,Haymarket,Force,2019-07,Unable to prosecute suspect
+1263,violent-crime,75986333,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Unable to prosecute suspect
+1264,violent-crime,75986340,52.627387,-1.137589,883244,Winifred Street,Force,2019-07,Unable to prosecute suspect
+1265,violent-crime,75986379,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1266,violent-crime,75986401,52.624871,-1.150136,882281,Noel Street,Force,2019-07,Unable to prosecute suspect
+1267,violent-crime,75986405,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Unable to prosecute suspect
+1268,violent-crime,75986466,52.622762,-1.139452,882319,Burnmoor Street,Force,2019-07,Unable to prosecute suspect
+1269,violent-crime,75986467,52.630684,-1.128659,883373,Dunkirk Street,Force,2019-07,Unable to prosecute suspect
+1270,violent-crime,75986483,52.627866,-1.120737,883200,University Road,Force,2019-07,Awaiting court outcome
+1271,violent-crime,75986493,52.622258,-1.119741,1319930,Victoria Park,Force,2019-07,Investigation complete; no suspect identified
+1272,violent-crime,75986617,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+1273,violent-crime,75986640,52.626704,-1.148815,882280,Paton Street,Force,2019-07,Unable to prosecute suspect
+1274,violent-crime,75986764,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1275,violent-crime,75986767,52.636721,-1.132898,883359,Haymarket,Force,2019-07,Investigation complete; no suspect identified
+1276,violent-crime,75986813,52.631689,-1.117484,883222,Guthlaxton Street,Force,2019-07,Unable to prosecute suspect
+1277,violent-crime,75986881,52.635286,-1.111501,883165,Chatsworth Street,Force,2019-07,Awaiting court outcome
+1278,violent-crime,75986945,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1279,violent-crime,75986946,52.628925,-1.112087,883167,Chandos Street,Force,2019-07,Unable to prosecute suspect
+1280,violent-crime,75986969,52.627692,-1.132545,883257,Prison,Force,2019-07,Investigation complete; no suspect identified
+1281,violent-crime,75986983,52.630787,-1.132897,883346,Marlborough Street,Force,2019-07,Unable to prosecute suspect
+1282,violent-crime,75987017,52.627307,-1.140191,883419,Grasmere Street,Force,2019-07,Unable to prosecute suspect
+1283,violent-crime,75987087,52.632107,-1.151311,883528,Police Station,Force,2019-07,Unable to prosecute suspect
+1284,violent-crime,75987118,52.628613,-1.118388,883221,Highfield Street,Force,2019-07,Formal action is not in the public interest
+1285,violent-crime,75987134,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Unable to prosecute suspect
+1286,violent-crime,75987244,52.631392,-1.127064,883371,East Street,Force,2019-07,Investigation complete; no suspect identified
+1287,violent-crime,75987264,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Unable to prosecute suspect
+1288,violent-crime,75987414,52.634736,-1.112590,883154,Duffield Street,Force,2019-07,Further investigation is not in the public interest
+1289,violent-crime,75987417,52.632783,-1.151520,883484,Norfolk Street,Force,2019-07,Unable to prosecute suspect
+1290,violent-crime,75987610,52.627957,-1.110068,883057,Conifer Close,Force,2019-07,Unable to prosecute suspect
+1291,violent-crime,75987617,52.631975,-1.133096,883320,Welford Place,Force,2019-07,Unable to prosecute suspect
+1292,violent-crime,75987626,52.627933,-1.139691,883416,Parking Area,Force,2019-07,Investigation complete; no suspect identified
+1293,violent-crime,75985659,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Unable to prosecute suspect
+1294,violent-crime,75985666,52.634379,-1.132294,883398,Nightclub,Force,2019-07,Awaiting court outcome
+1295,violent-crime,75985667,52.634379,-1.132294,883398,Nightclub,Force,2019-07,Unable to prosecute suspect
+1296,violent-crime,75985684,52.631806,-1.135788,883340,Newarke Street,Force,2019-07,Unable to prosecute suspect
+1297,violent-crime,75985693,52.633018,-1.113674,883123,Melbourne Road,Force,2019-07,Investigation complete; no suspect identified
+1298,violent-crime,75985722,52.630652,-1.152669,883493,Livingstone Street,Force,2019-07,Unable to prosecute suspect
+1299,violent-crime,75985786,52.625909,-1.112636,882408,Tennyson Street,Force,2019-07,Unable to prosecute suspect
+1300,violent-crime,75985843,52.623932,-1.142148,882310,Parking Area,Force,2019-07,Unable to prosecute suspect
+1301,violent-crime,75985875,52.637465,-1.141233,883431,Great Central Street,Force,2019-07,Investigation complete; no suspect identified
+1302,violent-crime,75985881,52.626548,-1.134680,882320,Leicester Royal Infirmiry,Force,2019-07,Unable to prosecute suspect
+1303,violent-crime,75985971,52.624661,-1.114094,882419,St James Terrace,Force,2019-07,Unable to prosecute suspect
+1304,violent-crime,75985972,52.632892,-1.112362,883160,Darley Street,Force,2019-07,Action to be taken by another organisation
+1305,violent-crime,75988877,52.621591,-1.113536,882481,Cedars Court,Force,2019-07,Formal action is not in the public interest
+1306,violent-crime,75988893,52.628789,-1.133764,883335,Pelham Way,Force,2019-07,Unable to prosecute suspect
+1307,violent-crime,75988937,52.628825,-1.110671,883098,Roslyn Street,Force,2019-07,Investigation complete; no suspect identified
+1308,violent-crime,75988977,52.641932,-1.123898,884323,Montreal Road,Force,2019-07,Unable to prosecute suspect
+1309,violent-crime,75987748,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Unable to prosecute suspect
+1310,violent-crime,75987751,52.639335,-1.133940,883362,Gravel Street,Force,2019-07,Unable to prosecute suspect
+1311,violent-crime,75987757,52.639768,-1.131597,883239,Parking Area,Force,2019-07,Unable to prosecute suspect
+1312,violent-crime,75987765,52.637600,-1.135171,883324,St Peters Lane,Force,2019-07,Unable to prosecute suspect
+1313,violent-crime,75987841,52.634769,-1.142734,883525,Bath Lane,Force,2019-07,Unable to prosecute suspect
+1314,violent-crime,75987843,52.627126,-1.142455,882309,Eastern Boulevard,Force,2019-07,Unable to prosecute suspect
+1315,violent-crime,75987850,52.633190,-1.116168,883104,Pluto Close,Force,2019-07,Unable to prosecute suspect
+1316,violent-crime,75987854,52.637005,-1.130026,883354,Kildare Street,Force,2019-07,Investigation complete; no suspect identified
+1317,violent-crime,75987871,52.632887,-1.131127,883388,Belvoir Street,Force,2019-07,Investigation complete; no suspect identified
+1318,violent-crime,75987890,52.624562,-1.152151,882300,Petrol Station,Force,2019-07,Unable to prosecute suspect
+1319,violent-crime,75987909,52.628993,-1.112795,883084,Sutherland Street,Force,2019-07,Awaiting court outcome
+1320,violent-crime,75987989,52.638769,-1.126548,883377,Crafton Street West,Force,2019-07,Investigation complete; no suspect identified
+1321,violent-crime,75987996,52.633192,-1.117719,883227,Atlas Close,Force,2019-07,Unable to prosecute suspect
+1322,violent-crime,75988025,52.634407,-1.133653,883407,Shopping Area,Force,2019-07,Unable to prosecute suspect
+1323,violent-crime,75988070,52.628510,-1.134937,883253,Infirmary Square,Force,2019-07,Investigation complete; no suspect identified
+1324,violent-crime,75988138,52.631910,-1.152660,883501,Hinckley Road,Force,2019-07,Unable to prosecute suspect
+1325,violent-crime,75988443,52.631392,-1.127064,883371,East Street,Force,2019-07,Unable to prosecute suspect
+1326,violent-crime,75988446,52.631392,-1.127064,883371,East Street,Force,2019-07,Unable to prosecute suspect
+1327,violent-crime,75988506,52.632727,-1.127688,883339,Newport Place,Force,2019-07,Unable to prosecute suspect
+1328,violent-crime,75988591,52.628502,-1.113160,883176,Biddulph Street,Force,2019-07,Investigation complete; no suspect identified
+1329,violent-crime,75988617,52.635826,-1.149673,883521,Bosworth Street,Force,2019-07,Formal action is not in the public interest
+1330,violent-crime,76420744,52.631569,-1.124283,1489803,Leicester (station),BTP,2019-07,Under investigation
+1331,violent-crime,75795818,52.635915,-1.137126,883411,Shopping Area,Force,2019-07,Under investigation
+1332,other-crime,75986377,52.628455,-1.153435,883454,Harrow Road,Force,2019-07,Unable to prosecute suspect
+1333,other-crime,75983954,52.634136,-1.134752,883357,Hotel Street,Force,2019-07,Investigation complete; no suspect identified
+1334,other-crime,75985136,52.632246,-1.129529,883311,York Street,Force,2019-07,Investigation complete; no suspect identified
+1335,other-crime,75987114,52.627692,-1.132545,883257,Prison,Force,2019-07,Further investigation is not in the public interest
+1336,other-crime,75985987,52.627692,-1.132545,883257,Prison,Force,2019-07,Under investigation
+1337,other-crime,75991223,52.630222,-1.108855,883174,Bonsall Street,Force,2019-07,Awaiting court outcome
+1338,other-crime,75990210,52.636256,-1.125933,883316,Wimbledon Street,Force,2019-07,Unable to prosecute suspect
+1339,other-crime,75990064,52.632002,-1.112350,883158,Diseworth Street,Force,2019-07,Investigation complete; no suspect identified
+1340,other-crime,75984859,52.631392,-1.127064,883371,East Street,Force,2019-07,Under investigation
+1341,other-crime,75992279,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+1342,other-crime,75851923,52.630420,-1.126995,883390,Ashwell Street,Force,2019-07,Under investigation
+1343,other-crime,75990052,52.630994,-1.147728,883487,Narborough Road North,Force,2019-07,Under investigation
+1344,other-crime,75988396,52.615943,-1.132600,882342,Euston Street,Force,2019-07,Awaiting court outcome
+1345,other-crime,75988274,52.630054,-1.134685,883351,Lower Brown Street,Force,2019-07,Unable to prosecute suspect
+1346,other-crime,75985871,52.632469,-1.134164,883334,Pocklingtons Walk,Force,2019-07,Awaiting court outcome
+1347,other-crime,75987615,52.639894,-1.142796,883438,New Henry Street,Force,2019-07,Unable to prosecute suspect
+1348,other-crime,75989949,52.635062,-1.132222,883289,Gallowtree Gate,Force,2019-07,Under investigation
+1349,other-crime,75985191,52.635415,-1.114335,883073,Wilson Street,Force,2019-07,Under investigation
+1350,other-crime,75988479,52.637712,-1.130751,883292,Haymarket Bus Station,Force,2019-07,Investigation complete; no suspect identified
